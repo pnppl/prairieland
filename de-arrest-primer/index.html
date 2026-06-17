@@ -12,6 +12,7 @@
 			max-width: 80ch;
 			margin: auto;
 			padding: 1em;
+			zoom: 0.5; /* for easily scaling the font up to 200% without fucking everything up */
 		}
 		figure,
 		img {
@@ -32,13 +33,30 @@
 			max-width: 50%;
 			clear: both;
 		}
-		div {
+		figcaption {
+			font-style: italic;
+		}
+		#t4 {
 			clear: both;
+		}
+		h1 {
+			font-size: 6em;
+			border: 5px solid;
+			width: fit-content;
+			margin: 1em auto;
+			padding: 0 10px;
 		}
 		h1,
 		h1 + figure {
 			text-align: center;
 			font-family: sans-serif;
+		}
+		#cover figcaption {
+			padding: 2em 0;
+		}
+		#cover {
+			border: 10px dashed;
+			margin-bottom: 2em;
 		}
 		h2 {
 			background-color: black;
@@ -50,6 +68,14 @@
 		}
 		h2 + p {
 			display: inline;
+		}
+		h2,
+		p,
+		figcaption {
+			font-size: 2em;
+		}
+		p {
+			text-align: justify;
 		}
 		a {
 			color: white;
@@ -66,11 +92,13 @@
 		--></style>
 	</head>
 	<body>
-		<h1>DE-ARREST PRIMER</h1>
-		<figure>
-			<img src="img/cover.png" alt="Police try to arrest someone while a person in a keffiyeh pulls them back">
-			<figcaption>draft 1 // so-called u.s. // spring, 2024</figcaption>
-		</figure>
+		<div id="cover">
+			<h1>DE-ARREST<br>PRIMER</h1>
+			<figure>
+				<img src="img/cover.png" alt="Police try to arrest someone while a person in a keffiyeh pulls them back">
+				<figcaption>draft 1 // so-called u.s. // spring, 2024</figcaption>
+			</figure>
+		</div>
 		<br>
 
 		<h2><a href="#intro" id="intro">intro</a></h2>
@@ -95,7 +123,7 @@
 		<p>Opening a door to let the arrestee(s) go free.</p>
 		<p>LEOs will leave their patrol cars or prisoner transport vans unlocked from time to time, even when there's arrestee's sitting in said vehicles. In this case one can simply sneakily or quickly open the door of one of these vehicles and let the arrestees out. Of course this is could be considered a crime, but in terms of risk level it would fall lower in most cases than something like directly putting hands on an officer or someone they're physically arresting.<p>
 
-		<div>
+		<div id="#t4">
 			<img src="img/tactic4.png" alt="A cop in riot gear stands defensively in front of a cop car while two people in the foreground raise their arms at him">
 			<h2><a href="#tactic4" id="tactic1">tactic 4</a></h2>
 			<p>Pressuring police to release the arrestee(s).</p>
@@ -115,9 +143,7 @@
 
 		<figure>
 			<img src="img/intifada.png" alt="A cop in riot gear tries to arrest someone while a second person pulls on the arrestee and a third person pushes the cop. Arrestee and both de-arresters are in bloc">
-			<figcaption>
-				<em>Each de-arrest is a “shaking off” which is to say each one is a micro-intifada which can spread and inspire others until we may finally shake off this noxious ruling order all together.</em>
-			</figcaption>
+			<figcaption>Each de-arrest is a “shaking off” which is to say each one is a micro-intifada which can spread and inspire others until we may finally shake off this noxious ruling order all together.</figcaption>
 		</figure>
 	</body>
 </html>
