@@ -1,0 +1,152 @@
+- add markdown versions
+- redo "war" - has sources listed, shouldn't be too bad
+- add section collecting links to donate
+- add section about the state's transmisogyny (they are so fascist in tx the gov deadnames people who legally changed their name, jfc)
+- add zines from guardian article, anews comment, social media photos
+	- anews commenter
+		- anarchism and its aspirations
+		- cruel fiction
+		- counterinsurgency and the occupy movement
+		- the process that leaves me with a dead sister (poetry collection) -- also mentioned in guardian
+	- guardian text - unclear if presented as evidence, part of egbc
+		- a journal of materialist feminism
+		- a call for the eradication of artificial intelligence from the face of the earth
+	- guardian photos
+		- collage
+			- to them we're all outside agitators: encampments & escalation
+			- the do-it-yourself occupation guide: 2024 edition
+		- tabling
+			- faggots & their friends
+			- what is gender nihilism? (baedan)
+			- movement for no society
+			- black seed: where the absence is
+			- black seed: not on any map
+			- willful disobedience. oh god it's wolfi
+			- blessed is the flame
+			- desert
+			- unidentified
+				- all black with eclipse crescent. baedan?
+				- all black with small curlicue. (also baedan?)
+				- hand palm out
+				- some sort of dinosaur cartoons or something
+				- corner of something, white beams or circle a over black
+		- printing press
+			- dead sister poetry
+			- baedan? editorial statement clearly visible, can make out "journal of queer time travel", maybe this is the sequel
+		- flag - possibly one bottom right behind the light, shows a seed growing. also who made that flag?
+		- 8 things you can do to stop ice pamphlet - https://crimethinc.com/2025/02/11/eight-things-you-can-do-to-stop-ice
+		- seeds
+			- propagation for the people vol 1 & 2
+			- a guide to the ? IFA? something rojava?
+		- both versions of the crimethinc gender poster
+		- motherlode
+			- on the black leadership & other white myths
+			- hacking the suburbs - in conversation with partisan gardens? (compare to fb-pile)
+			- the anarchist temple?
+			-  why we must???
+			-  FTP - fight... feel... freedom... fucking? seems familiar
+			- SRA constitutional carry guide
+			-  lies: letters to L. ... journal of materialist feminism
+			- no selves to abolish
+			-  read my lips fight ??? (maybe a poster?)
+			-  https://theanarchistlibrary.org/library/mary-nardini-gang-be-gay-do-crime
+				- ill will edition?
+			- criminal intimacy: a gang of crimininal queers - bash back (thx fb pic)
+			-  sha... abo(rtion?)... ageism? ... oakland
+			-  las vegas type signs, "striporina" visible
+			-  acrid bl...
+			- mansfield's school segregation history ..65-1965, texas anarchist logo
+			-  "call" with creepy guys
+			- let's destitute the world
+			- the harv... of d... elephant (something animal rights)
+			- cop city FAQ
+			-  intriguing but illegible, gallows? glow?
+			-  ..ns - striking art
+			- old timey map?
+			- biden's (president, free..., failure)? state sponsor ... causing hardship?
+			- ab... (absolute sharing friends? - from fb-table)
+			- already have: queerest insurrection, i don't bash back, if we go
+			- stickers
+				- the police do not care about you (pig shrugging)
+				- all dogs go to heaven / all cops go to hell
+				- queers (fists)
+				- acab (kitty with bandana mask)
+				- possom with molotov, can't read
+				- slashed swastika
+				- trans pride fest 2
+				- ftp x3
+				- spread anarchy, live communism
+				- spartan?
+				- hello kitty in keffiyeh and palestine flag
+		- emergent strategy by adrienne maree brown
+	- egbc fb: https://www.facebook.com/EmmaGoldmanBCTX/
+		- between the sea and the security fence - ian alan paul
+		- first protocols of queer goetia
+		- oh hey the tarot card zine https://theanarchistlibrary.org/library/mary-nardini-gang-be-gay-do-crime
+		- guts issue 7: love nov 2016, suturing the split
+		- lies: against the couple form. journal of materialist feminism
+		- repair - gwen benaway
+		- oaths of blood, oaths of water
+		- call it what it is: anti-blackness - kihana miraya ross
+		- crowned plague
+		- wanderings of the slave
+		- mothering against motherhood
+		- shelf: many unidentified in background
+		- table
+			- unidentified in background
+			- another unknown issue of lies
+			- stickers
+				- "uenmo egbctx" - actually cross stitch
+				- filth is our politics
+				- embrace madness
+				- defend the atlanta forest
+				- acab (blackletter)
+				- ftp x3
+				- ftp + spikes? tree?
+				- be gay do crime
+				- unidentified illegible flowers - looks like "spring is an insurrection" (see fb-pile)
+				- maul the police ?
+				- fuck the police - one with cat, one with cop car and curly writing
+		- big table
+			- many unidentified
+			- apsara
+			- an eternity in tangiers
+			- several issues of lies
+			- the city in the forest
+			- new battlefields
+			- stickers
+				- share violence (think this was a quote from i don't bash back)
+				- live laugh loot
+				- cop city, acab etc
+		- the witch's child
+		- grass: a love letter from the (end of the world?); lies
+		- riotsville USA (film they screened)
+		- display: some unidentified zines, maybe harm reduction and prison support, distinctive covers
+		- another table
+			- de-attacking? re-attacking?
+			- many illegible
+			- "get lit" molotov sticker
+		- strategy of composition (ill will)
+		- pile
+			- the interregnum
+			- dirty work - something about china? chile?
+		- grass pile: on the arrest of six young people for "domestic terrorism"
+		- table-wide: can't make anything out but cool anti border flags
+		- might be more with an fb account if i ever get through these
+		- also instagram: https://www.instagram.com/eg_bc_tx/
+	- states of siege https://community.apprenticeoakcliff.org/events/1415513894/emma-goldman-book-club?&v=latest
+- is "visualize industrial collapse" a zine i can't find or just a bumper sticker? iono shit about anticiv
+	- funny how fascism makes me perfectly happy to support them, baedan wank, etc, lol
+- mosaic compat
+	- some zines crash mosaic. usually this is due to missing resources. find and strip them
+		- actually i think it's just the pngs - see if i missed any that could be gif or jpg
+	- a bunch of TAL zines have an XML declaration on top that firefox says is invalid and gets printed in mosaic
+	- ! the de-re-emdash-ifier isn't working on links, so the link to "safety" has a broken character in mosaic
+	- "war" is completely broken
+	- "de-arrest" figcaptions need a <br> or something, they show inline with the image
+- give it its own pagefind instance
+- banner image?
+- automate updating the shitty TAL print styles
+- set dark mode bg to #000 on everything
+
+
