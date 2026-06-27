@@ -148,5 +148,7 @@
 - banner image?
 - automate updating the shitty TAL print styles
 - set dark mode bg to #000 on everything
-
-
+- cover gallery
+	pdftoppm -singlefile -png -progress $file
+	#convert $file -resize 600x800 -background transparent -gravity center -extent 600x800 $file
+	caesium --quality 80 --format jpeg $file
