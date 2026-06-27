@@ -148,7 +148,10 @@
 - banner image?
 - automate updating the shitty TAL print styles
 - set dark mode bg to #000 on everything
+	sd -n 1 -- '\t--></style>' '\t\t@media screen and (prefers-color-scheme: dark) {\n\t\t\tbody {\n\t\t\t\tbackground: black !important;\n\t\t\t}\n\t\t}\n\t--></style>' index.html
 - cover gallery
 	pdftoppm -singlefile -png -progress $file
 	#convert $file -resize 600x800 -background transparent -gravity center -extent 600x800 $file
 	caesium --quality 80 --format jpeg $file
+
+
