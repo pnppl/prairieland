@@ -2,7 +2,7 @@
 - redo "war" - has sources listed, shouldn't be too bad
 - add section collecting links to donate
 - add section about the state's transmisogyny (they are so fascist in tx the gov deadnames people who legally changed their name, jfc)
-- add zines from guardian article, anews comment, social media photos
+- add zines
 	- anews commenter
 		- anarchism and its aspirations
 		- cruel fiction
@@ -25,7 +25,7 @@
 			- blessed is the flame
 			- desert
 			- unidentified
-				- all black with eclipse crescent. baedan?
+				- all black with eclipse crescent. baedan
 				- all black with small curlicue. (also baedan?)
 				- hand palm out
 				- some sort of dinosaur cartoons or something
@@ -52,7 +52,7 @@
 			-  https://theanarchistlibrary.org/library/mary-nardini-gang-be-gay-do-crime
 				- ill will edition?
 			- criminal intimacy: a gang of crimininal queers - bash back (thx fb pic)
-			-  sha... abo(rtion?)... ageism? ... oakland
+			-  shattering abolition (from Seeds of)
 			-  las vegas type signs, "striporina" visible
 			-  acrid bl...
 			- mansfield's school segregation history ..65-1965, texas anarchist logo
@@ -64,7 +64,7 @@
 			-  ..ns - striking art
 			- old timey map?
 			- biden's (president, free..., failure)? state sponsor ... causing hardship?
-			- ab... (absolute sharing friends? - from fb-table)
+			- absolute sharing between friends? - from fb-table
 			- already have: queerest insurrection, i don't bash back, if we go
 			- stickers
 				- the police do not care about you (pig shrugging)
@@ -94,6 +94,7 @@
 		- shelf: many unidentified in background
 		- table
 			- unidentified in background
+				- think i have all these (listed) now except maybe some little corners
 			- another unknown issue of lies
 			- stickers
 				- "uenmo egbctx" - actually cross stitch
@@ -109,21 +110,22 @@
 				- fuck the police - one with cat, one with cop car and curly writing
 		- big table
 			- many unidentified
-			- apsara
+			- apsara engine
 			- an eternity in tangiers
 			- several issues of lies
 			- the city in the forest
 			- new battlefields
+			- fun home
 			- stickers
 				- share violence (think this was a quote from i don't bash back)
 				- live laugh loot
 				- cop city, acab etc
 		- the witch's child
-		- grass: a love letter from the (end of the world?); lies
+		- grass: a love letter from the end of the world; lies
 		- riotsville USA (film they screened)
 		- display: some unidentified zines, maybe harm reduction and prison support, distinctive covers
 		- another table
-			- de-attacking? re-attacking?
+			- re-attachments (visible in seed)
 			- many illegible
 			- "get lit" molotov sticker
 		- strategy of composition (ill will)
@@ -135,6 +137,22 @@
 		- might be more with an fb account if i ever get through these
 		- also instagram: https://www.instagram.com/eg_bc_tx/
 	- states of siege https://community.apprenticeoakcliff.org/events/1415513894/emma-goldman-book-club?&v=latest
+	- seed https://hotel-florida.ghost.io/the-seeds-of-prairieland/
+		- Shattering Abolition
+		- re-attachments: towards an ecology of presence
+		- absolute sharing between friends
+		- plantocracy communism
+		- against innocence
+		- a short introduction to ... by hostis
+		- reparation as a demand verb
+		- kill the couple in your head
+		- on insurgent history and the abolition of the imagination
+		- unidentified
+			- back left: ... blade? ...
+			- very back
+			- between _mothering_ and _the city_
+			- little sliver on the corner
+		- already found: let's destitute, desert, repair, witch's child, wanderings of the slave, organizing for attack, mothering against motherhood, city in the forest, queer goetia, don't bash back, dirty work, end of the world
 - is "visualize industrial collapse" a zine i can't find or just a bumper sticker? iono shit about anticiv
 	- funny how fascism makes me perfectly happy to support them, baedan wank, etc, lol
 - mosaic compat
