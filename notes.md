@@ -3,18 +3,47 @@
 - add section collecting links to donate
 - add section about the state's transmisogyny (they are so fascist in tx the gov deadnames people who legally changed their name, jfc)
 - add zines
-	- anews commenter
+
+	- court notes
+		- I THINK i decided some of these were actually other zines but I failed to write it down so idk. hard to tell if they're zine names or just slogans on stickers/patches/internet posts
+			- "we don't want reform, we want revenge"
+			- "Dancing in the Streets, Memoirs of Anti-Ice protestor"
+			- "every cop should be redacted"
+			- "informing anarchy block radical tradition" bloc? black?
+			- "Make America Not Exist Again."
+			- Abolish the police; Abolish ICE
+			- "for the destruction of all prisons"
+	- anews commenter https://anarchistnews.org/comment/86199#comment-86199
 		- anarchism and its aspirations
+			- https://theanarchistlibrary.org/library/cindy-milstein-anarchism-and-its-aspirations
+			- can't find
 		- cruel fiction
+			- https://drylandliteraryjournal.wordpress.com/2019/01/19/cruel-fiction-by-wendy-trevino/
+			- don't see it anywhere. is the markdown zip incomplete? the search on the site is very bad (as is TAL's!!!)
 		- counterinsurgency and the occupy movement
-		- the process that leaves me with a dead sister (poetry collection) -- also mentioned in guardian
+			- "the counterinsurgency book" mentioned
+			- https://www.academia.edu/5486857/Counterinsurgency_and_the_Occupy_Movement
+		- the process that leaves me with a dead sister (poetry collection)
+			- also mentioned in guardian
+			- https://livingandfighting.bigcartel.com/product/the-process-that-leaves-me-with-a-dead-sister
+		- Insurgency a Journal of Anarchist destruction
+			- https://warzonedistro.noblogs.org/post/2017/09/07/insurgency-an-anarchist-journal-of-total-destruction/
+			- in notes they refer to "insurgency" many times but i think it might actually be "on insurgent history"?
+	- https://theanarchistlibrary.org/library/the-relevance-of-the-prairieland-conviction-to-printers-and-zine-distributors#toc2
+		- same as the anews comment
 	- guardian text - unclear if presented as evidence, part of egbc
 		- a journal of materialist feminism
 		- a call for the eradication of artificial intelligence from the face of the earth
 	- guardian photos
 		- collage
 			- to them we're all outside agitators: encampments & escalation
+				- different cover https://wolpalestine.com/encampments/
+				- can't find pdf
 			- the do-it-yourself occupation guide: 2024 edition
+				- seems canonical https://archive.org/details/diy-occupation-guide-2024/
+				- https://www.indybay.org/newsitems/2024/04/29/18865522.php
+				- https://web.archive.org/web/20240429101818/https://escalatenetwork.org/post/749031816489484288/the-do-it-yourself-occupation-guide-2024-edition
+				- can't find html
 		- tabling
 			- faggots & their friends
 			- what is gender nihilism? (baedan)
@@ -30,41 +59,93 @@
 				- hand palm out
 				- some sort of dinosaur cartoons or something
 				- corner of something, white beams or circle a over black
+			- ^ all bound books i think
 		- printing press
 			- dead sister poetry
 			- baedan? editorial statement clearly visible, can make out "journal of queer time travel", maybe this is the sequel
 		- flag - possibly one bottom right behind the light, shows a seed growing. also who made that flag?
-		- 8 things you can do to stop ice pamphlet - https://crimethinc.com/2025/02/11/eight-things-you-can-do-to-stop-ice
+			- 90% sure it is not plant propagation for the people
+		- 8 things you can do to stop ice pamphlet
+			- good to go
+			- https://crimethinc.com/2025/02/11/eight-things-you-can-do-to-stop-ice
+			- should i name printables differently when they're still for letter paper but fold up differently?
+			- can probably chop it up into a linear screen version automatically? pdftk or sth?
 		- seeds
 			- propagation for the people vol 1 & 2
-			- a guide to the ? IFA? something rojava?
+				- https://botanicalgarden.ubc.ca/news-events/two-new-propagation-zines-by-dr-erin-despard/
+				- need html and screen. also print version looks weird
+			- a guide to IFAK - socialist rifle association
+				- another tri fold pamphlet
+				- https://static.wikitide.net/masrawiki/2/25/SRA_IFAK_Pamphlet.pdf
 		- both versions of the crimethinc gender poster
 		- motherlode
+			- be gay do crime
+				- good to go
+				- https://haters.noblogs.org/zines/
+				- https://theanarchistlibrary.org/library/mary-nardini-gang-be-gay-do-crime
 			- on the black leadership & other white myths
+				- good to go
+				- https://illwill.com/print/on-the-black-leadership-and-other-white-myths
 			- hacking the suburbs - in conversation with partisan gardens? (compare to fb-pile)
-			- the anarchist temple?
-			-  why we must???
-			-  FTP - fight... feel... freedom... fucking? seems familiar
-			- SRA constitutional carry guide
-			-  lies: letters to L. ... journal of materialist feminism
+				- need pdf. is it really just a podcast transcript?
+				- https://www.partisangardens.org/podcast/february-2022-retrosuburbia-with-david-holmgren%ef%bf%bc/
+				- https://territories.substack.com/p/hacking-the-suburbs
 			- no selves to abolish
-			-  read my lips fight ??? (maybe a poster?)
-			-  https://theanarchistlibrary.org/library/mary-nardini-gang-be-gay-do-crime
-				- ill will edition?
-			- criminal intimacy: a gang of crimininal queers - bash back (thx fb pic)
-			-  shattering abolition (from Seeds of)
-			-  las vegas type signs, "striporina" visible
-			-  acrid bl...
-			- mansfield's school segregation history ..65-1965, texas anarchist logo
-			-  "call" with creepy guys
+				- good to go if i use imposer
+				- https://incivility.org/2020/06/03/no-selves-to-abolish-afropessimism-anti-politics-and-the-end-of-the-world-by-k-aarons/
+				- https://web.archive.org/web/20160311000846/http://www.metamute.org/editorial/articles/no-selves-to-abolish-afropessimism-anti-politics-and-end-world
+				- https://illwilleditions.noblogs.org/post/2015/09/19/catalogue/
+					- print version link is broken
+			- shattering abolition (from Seeds of)
+				- https://haters.noblogs.org/zines/
+				- need html
+			- acrid black smoke
+				- good to go i think
+				- https://haters.noblogs.org/zines/
 			- let's destitute the world
-			- the harv... of d... elephant (something animal rights)
+				- https://ruinsofcapital.noblogs.org/files/2019/10/Lets-Destitute-The-World.pdf
+					- different cover
+					- chapter four of Now. any point including it separately? if it were the same exact version it would make sense, but we already have it in another version...
+			- the harvest of dead elephants
+				- should be good to go with de-imposer. double check it's actually print ready
+				- https://azinelibrary.org/zines/Harvest-of-Dead-Elephants-The-The-False-Opposition-of-Animal-Liberation
+				- https://theanarchistlibrary.org/library/various-authors-a-murder-of-crows#toc53
 			- cop city FAQ
-			-  intriguing but illegible, gallows? glow?
-			-  ..ns - striking art
+				- https://defendtheatlantaforest.org/wp-content/uploads/2022/07/dtf-media-kit.pdf
+				- don't think there's an imposed version. need html
+			- follow the fires
+				- good to go with de-imposer
+				- https://ruinsofcapital.noblogs.org/follow-the-fires/
+				- https://web.archive.org/web/20240705045730/https://livingandfighting.net/Follow-the-Fires
 			- old timey map?
+				- think it's strange constellations, it is in other pics https://friendship-as-a-form-of-life.tumblr.com/download
+				- need html
+				- has spanish version. shit it didn't even occur to me i could make this multi language. each one is a lot of extra work if i have to make the html and i won't spot my errors
+			- absolute sharing between friends
+				- https://friendship-as-a-form-of-life.tumblr.com/download
+				- need html
+			- criminal intimacy: a gang of crimininal queers - bash back (thx fb pic)
+				- https://theanarchistlibrary.org/library/mary-nardini-gang-criminal-intimacy
+				- https://ia803104.us.archive.org/24/items/ZineArchive/WritingsOfTheMaryNardiniGang1.pdf
+					- not the same cover, actually is a collection of several short pieces
+
+			- lies: letters to L. ... journal of materialist feminism
+			- SRA constitutional carry "what it means for you"
+				- seems to be from DFW SRA based on the logo and knowledge of the case. maybe on their instagram somewhere https://www.instagram.com/sra_dfw/
+			- mansfield's school [de?]segregation history ..65-1965, texas anarchist logo
+				- i got nothing. is there another place that ends in -nsfield?
+			- las vegas type signs, "striporama" visible
+				- this place might have it ("striporama" listed next to a bunch of stuff like mary nardini)... but not sharing. could contact them (once I have the rest done...) https://www.cvllc.ca/zine-catalogue
+			- ..ns - striking art
+				- for some reason i feel this is some pomo deleuze/guattari type thing. talking about schizophrenia but not really or whatever
+				- oh shit we can tineye these
+			- "call" with creepy guys
+			- read my lips fight ??? (maybe a poster?)
 			- biden's (president, free..., failure)? state sponsor ... causing hardship?
-			- absolute sharing between friends? - from fb-table
+			- the anar[chist?] te[mple?]??? old timey religious/occult type art
+			- why we must???
+			- FTP - fight... feel... freedom... fucking? seems familiar
+
 			- already have: queerest insurrection, i don't bash back, if we go
 			- stickers
 				- the police do not care about you (pig shrugging)
@@ -79,22 +160,35 @@
 				- spartan?
 				- hello kitty in keffiyeh and palestine flag
 		- emergent strategy by adrienne maree brown
+			- https://annas-archive.gl/search?index=&page=1&sort=&display=&q=emergent+strategy+shaping+change+adrienne+maree+brown
+			- might not want to put up books due to copyright harassment?
+				- AK press's position in 2009 described in this https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1434707
+
 	- egbc fb: https://www.facebook.com/EmmaGoldmanBCTX/
 		- between the sea and the security fence - ian alan paul
 		- first protocols of queer goetia
-		- oh hey the tarot card zine https://theanarchistlibrary.org/library/mary-nardini-gang-be-gay-do-crime
+			- https://theanarchistlibrary.org/library/anonymous-first-protocols-of-queer-goetia
 		- guts issue 7: love nov 2016, suturing the split
 		- lies: against the couple form. journal of materialist feminism
 		- repair - gwen benaway
+			- haters
 		- oaths of blood, oaths of water
+			- ill will
 		- call it what it is: anti-blackness - kihana miraya ross
 		- crowned plague
+			- haters
 		- wanderings of the slave
+			- haters
 		- mothering against motherhood
+			- haters
 		- shelf: many unidentified in background
+			- short introduction to the politics of cruelty - haters
+			- kill the couple in your head - ZLO, https://ungratefulhyenas.noblogs.org/post/2021/04/29/kill-the-couple-in-your-head/
 		- table
 			- unidentified in background
 				- think i have all these (listed) now except maybe some little corners
+			- tomorrow is canceled - ch. 1 of Now
+			- for the ones to come - Now
 			- another unknown issue of lies
 			- stickers
 				- "uenmo egbctx" - actually cross stitch
@@ -110,10 +204,12 @@
 				- fuck the police - one with cat, one with cop car and curly writing
 		- big table
 			- many unidentified
+			- stealing away - haters
 			- apsara engine
 			- an eternity in tangiers
 			- several issues of lies
 			- the city in the forest
+				- https://crimethinc.com/zines/city-in-the-forest
 			- new battlefields
 			- fun home
 			- stickers
@@ -121,7 +217,10 @@
 				- live laugh loot
 				- cop city, acab etc
 		- the witch's child
-		- grass: a love letter from the end of the world; lies
+		- grass
+			- a love letter from the end of the world
+				- haters
+			- lies
 		- riotsville USA (film they screened)
 		- display: some unidentified zines, maybe harm reduction and prison support, distinctive covers
 		- another table
@@ -141,18 +240,24 @@
 		- Shattering Abolition
 		- re-attachments: towards an ecology of presence
 		- absolute sharing between friends
-		- plantocracy communism
+		- plantocracy & communism
+			- haters
 		- against innocence
 		- a short introduction to ... by hostis
 		- reparation as a demand verb
 		- kill the couple in your head
-		- on insurgent history and the abolition of the imagination
+		- on insurgent histories and the abolitionist imaginary
+			- this might be the "insurgent" zine, not the one the other people ID'd
+			- https://ruinsofcapital.noblogs.org/insurgent-histories-and-the-abolitionist-imaginary/
+			- https://www.artforum.com/columns/saidiya-hartman-on-insurgent-histories-and-the-abolitionist-imaginary-248115/
+		- acrid black smoke (got it)
 		- unidentified
-			- back left: ... blade? ...
 			- very back
 			- between _mothering_ and _the city_
 			- little sliver on the corner
 		- already found: let's destitute, desert, repair, witch's child, wanderings of the slave, organizing for attack, mothering against motherhood, city in the forest, queer goetia, don't bash back, dirty work, end of the world
+	- i could have sworn i saw "what is an apparatus" somewhere
+		- https://friendship-as-a-form-of-life.tumblr.com/download
 - is "visualize industrial collapse" a zine i can't find or just a bumper sticker? iono shit about anticiv
 	- funny how fascism makes me perfectly happy to support them, baedan wank, etc, lol
 - mosaic compat
@@ -171,5 +276,5 @@
 	pdftoppm -singlefile -png -progress $file
 	#convert $file -resize 600x800 -background transparent -gravity center -extent 600x800 $file
 	caesium --quality 80 --format jpeg $file
-
-
+- the ADL is mad about several of these https://www.adl.org/resources/article/time-escalate-anti-israel-activists-intensify-protests-violent-direct-actions
+- recreate the emma goldman book club flier that's in like every picture as a blank template people can fill in with their own chapter

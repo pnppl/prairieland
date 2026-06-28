@@ -1,0 +1,224 @@
+var __TRINITY_IS_LEGACY__ = false;
+
+try {
+  eval('({...{x: 1}})');
+  eval('let b = window?.x ?? document');
+  eval('(async () => { await Promise.resolve(); })()');
+  eval('const fn = ({a, b = {}, ...c}) => {}');
+  eval('`${window.x}`');
+  eval('(async () => { for await (const item of []) {} })()');
+
+  if (!window.fetch) throw 'No fetch';
+  if (!(typeof Symbol)) throw 'No Symbol';
+} catch (error) {
+  __TRINITY_IS_LEGACY__ = error;
+}
+(function() {
+    var prefix = __TRINITY_IS_LEGACY__ ? 'legacy/' : '';
+
+    window.TRINITY_PLAYER = window.TRINITY_PLAYER || {
+        isLegacyBrowser: !!__TRINITY_IS_LEGACY__,
+        isDev: false,
+        domain: 'artforum.com',
+        options: {
+            useBunnyCDN: 0,
+            serverSubdomain: '',
+            pageURL: 'https://www.artforum.com/columns/saidiya-hartman-on-insurgent-histories-and-the-abolitionist-imaginary-248115/',
+            disabledDepartEvents: ["injectorImp"]        },
+        config: {
+            bundlePath: 'https://vd.trinitymedia.ai/trinity-player/tts-player/20260623_b1763448550e464f78f16312a9325660f9b4147e/',
+            injectorScriptPath: prefix + 'trinity-injector-script.js',
+            SRIHashes: {
+                'trinity-injector-script.js': 'sha384-x7cHi6nFYLKgcrRR+YtElFMZS+utGH5Wh0QcvTygHybJrW5XUjrLx3weMHcRvQT5',
+                'legacy/trinity-injector-script.js': 'sha384-q897ViY40MRDrpN09gOvsYctnfT2gp3jyNuLHwDECum3y+WO/X4R1CtxRbPpj1+8'
+            }
+        },
+        userAgentData: {"browser":"Firefox","os":"Linux","os_ver":"","device":"Other","browser_ver":"151.0","is_bot":false,"is_legacy_browser":true},
+        SDKData: {},
+        userId: '6e92a37c-3933-439a-ae0c-a90c8b9eca94',
+        geo: 'US',
+        server: 'ip-10-64-238-157',
+        server_region: 'us-east-1',
+        server_env: 'PRD',
+        publisherId: '38029',
+        ts: Date.now(),
+        tsServer: 1782636992998,
+        isOembed: 0    };
+    const TP = window.TRINITY_PLAYER;
+    const d = document;
+
+    const playerId = d.currentScript.dataset.playerId || '' || '0817986bff4ff7cb402e6edb12b565df'
+    d.currentScript.setAttribute('data-player-id', playerId); // set dynamically generated ID
+
+    
+    TP.players = TP.players || {};
+    TP.players[playerId] = {
+        isIframe: '',
+        isAMP: '',
+        abTestAlias: '',
+        adsDurationThreshold: '',
+        cf: '',
+        contentURL: 'https://www.artforum.com/columns/saidiya-hartman-on-insurgent-histories-and-the-abolitionist-imaginary-248115/',
+        documentLoadType: '',
+        documentLoadTypeSelector: '',
+        estimatedDuration: "",
+        filters: [{"name":"nodefiltered","params":["article-tags","o-nav","pmc-contextual-player","injected-related-story","social-share","article-related-links","article-related-artists","_socialMedia_1njrp_1","wp-block-footnotes","wp-block-list","related","real-estate-featured-listings","pmc-article-author-bios","piano-related-story","cx-related","pmc-ecomm-disclaimer"]},{"name":"excludeSelector","params":"section.brands-most-popular, ul[data-alias=\"social-media__list\"], div[data-component=\"cards-related-content\"], div[data-component=\"linked-gallery-slider\"], div.newsletter-cta, div.production-credits"}],
+        FAB: 'fabAfterClick',
+        FABConfig: {"m_bottom":"60px","excl_selector":"div.pmc-atlasmg-ad-type-bottom"},
+        displayExpanded: {"integration":"adtelligent"},
+        displayOverlay: {"returnToPlayer":{},"integration":"adtelligent"},
+        isTrinityEnabled: true,
+        isShareEnabled: 0,
+        shareEndpoint: '',
+        isNewTextApproach: true,
+        selectorVersion: '1',
+        headlineSelector: 'h1[data-alias="article-header__headline"], div[data-alias="article-header__dek"], h1.article-title, .article-excerpt, h1#section-heading',
+        articleSelector: 'div[data-template="article"] p, div[data-template="article"] h2, div[data-template="article"] h3, div[data-template="article"] h4, div[data-template="article"] h5, div[data-template="article"] ol>li, div[data-template="article"] ul>li, .a-content p, .a-content h5, .a-content h2, .a-content h3, .a-content h4, .a-content ol>li, .a-content ul>li, .c-gallery-vertical-featured-image__number, .c-gallery-vertical-slide__caption>p, .c-gallery-vertical-featured-image__title',
+        textSelector: '',
+        imageSelector: '',
+        language: 'en',
+        isTranslationEnabled: true,
+        loaderText: '',
+        paramsObject: {},
+        partnerName: '',
+        isShowPoweredBy: true,
+        isPoweredByLinkDisabled: '',
+        placeholderSelector: {},
+        playerMode: 'default',
+        playerType: '',
+        integrationType: 'web',
+        googleCustomParams: '',
+        pubShare: '0.7',
+        publisherSections: [{"type":"object","regexp":"","example":"(.*)","selector":"pmc_meta.category","timestamp":1765996428342,"delimiterSplitter":","}],
+        publisherSectionsAutoEnabled: true,
+        publisherTags: [{"type":"object","regexp":"","example":"(.*)","selector":"pmc_meta.tag","timestamp":1765996458222,"delimiterSplitter":","}],
+        publisherUserId: '',
+        publisherUserIdOptions: '{}',
+        readContentType: '',
+        readContentConfig: '',
+        readAlongConfig: null,
+        renderOptions: {},
+        rchURL: '',
+        state: 'not-started',
+        themeDataComputed: {"light":{"layout":"trinity2","height":64,"height-mobile":88,"min-width":360,"iframe":"height: 65px;","main-color":"#000033","el-play-button.width":"45px","el-play-button.height":"45px"},"dark":{"layout":"trinity2","height":64,"height-mobile":88,"min-width":360,"iframe":"height: 65px;","main-color":"#000033","background-color":"#000","el-play-button.width":"45px","el-play-button.height":"45px"},"__key":"production:default:ddf712a2b1b878dd7f1d5aa78b0a7db7280c7540:0","__debug":{"themeId":"628"}},
+        themeId: '628',
+        themeAppearance: 'auto_by_bg_color',
+        unitId: '2900023290',
+        unitType: 'tts-player',
+        unitEnvironment: 'web',
+        version: '20260623_b1763448550e464f78f16312a9325660f9b4147e',
+        avcAPIMethodsAllowed: '',
+    };
+
+    function trinitySendDepart(params) {
+  const data = {
+    t: 'audio',
+    platform: 'Trinity',
+    server: params.server,
+    server_env: params.serverENV,
+    server_region: params.serverRegion,
+    unit_type: params.unitType,
+
+    imp_id: params.impId,
+    user_id: params.userId,
+    geo: params.geo,
+    kind: params.kind,
+    campaign_id: params.unitId,
+    seller_id: params.publisherId,
+    url: params.url,
+    top_domain: params.topDomain,
+    text_value: params.textValue,
+    user_agent: params.userAgent,
+    user_agent_data: params.userAgentData,
+    player_version: params.playerVersion
+  };
+
+  const resultData = JSON.stringify(data);
+
+  fetch('https://depart.trinitymedia.ai/api/collect?t=audio', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: resultData
+  })
+    .then((response) => response.text())
+    .catch((error) => {
+      console.error('Can not send depart', error, data);
+    });
+
+  console.info('DEPART', resultData);
+}
+    TP.injectScript = function(playerId, injectorScriptId) {
+  var isDOMContentLoaded = false;
+
+  function checkIfDocumentReady() {
+    return ['interactive', 'complete', 'loaded'].indexOf(d.readyState) !== -1 || isDOMContentLoaded;
+  }
+
+  function run() {
+    if (d.body) {
+      if (!d.getElementById(injectorScriptId)) {
+        var js = d.createElement('script');
+        var src = TP.config.bundlePath + TP.config.injectorScriptPath;
+
+        js.type = 'text/javascript';
+        js.setAttribute('crossorigin', 'anonymous');
+        js.setAttribute('integrity', TP.config.SRIHashes[TP.config.injectorScriptPath]);
+        js.setAttribute('fetchpriority', 'high');
+        js.setAttribute('charset', 'UTF-8');
+        js.onerror = () => {
+          trinitySendDepart({
+            server: TP.server,
+            serverENV: TP.server_env,
+            serverRegion: TP.server_region,
+            unitType: TP.players[playerId].unitType,
+            userId: TP.userId,
+            geo: TP.geo,
+            kind: 'errorJSLoad',
+            unitId: Number(TP.players[playerId].unitId),
+            publisherId: Number(TP.publisherId || TP.players[playerId].publisherId),
+            url: window.location.href,
+            topDomain: TP.domain,
+            textValue: src,
+            userAgent: navigator.userAgent,
+            userAgentData: TP.userAgentData,
+            playerVersion: TP.players[playerId].version
+          });
+        };
+        js.src = src;
+        js.id = injectorScriptId;
+
+        js.addEventListener('load', createPlayer);
+
+        d.body.appendChild(js);
+      } else {
+        if (TP.isLoaded) createPlayer();
+        else d.getElementById(injectorScriptId).addEventListener('load', createPlayer);
+      }
+    }
+  }
+
+  function createPlayer() {
+    if (TP.players[playerId].__initializing) return;
+    if (checkIfDocumentReady()) TP.api && TP.api._internal && TP.api._internal.createPlayer(playerId);
+  }
+
+  run();
+
+  d.addEventListener('DOMContentLoaded', () => {
+    isDOMContentLoaded = true;
+  });
+
+  const t = setInterval(() => {
+    if (!checkIfDocumentReady()) return;
+
+    clearInterval(t);
+
+    run();
+  }, 100);
+};
+
+    TP.injectScript(playerId, 'trinity-tts-js');
+})();
+var __TRINITY_TAG_TIME__ = 14;
