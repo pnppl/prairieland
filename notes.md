@@ -7,6 +7,7 @@
 	- court notes
 		- I THINK i decided some of these were actually other zines but I failed to write it down so idk. hard to tell if they're zine names or just slogans on stickers/patches/internet posts
 			- "we don't want reform, we want revenge"
+				- sticker https://nitter.poast.org/EmmaGoldmanBCTX/status/1909069222505853322#m
 			- "Dancing in the Streets, Memoirs of Anti-Ice protestor"
 			- "every cop should be redacted"
 			- "informing anarchy block radical tradition" bloc? black?
@@ -32,8 +33,9 @@
 	- https://theanarchistlibrary.org/library/the-relevance-of-the-prairieland-conviction-to-printers-and-zine-distributors#toc2
 		- same as the anews comment
 		- should i double check that i can verify the initial firestorm list? trust but verify
+	- kera doj pics
+		- https://www.keranews.org/criminal-justice/2026-02-24/prairieland-ice-detention-center-shooting-alvarado-timeline
 	- guardian text - unclear if presented as evidence, part of egbc
-		- a journal of materialist feminism
 		- a call for the eradication of artificial intelligence from the face of the earth
 	- guardian photos
 		- collage
@@ -54,12 +56,12 @@
 			- willful disobedience. oh god it's wolfi
 			- blessed is the flame
 			- desert
+			- hand palm out is also desert - https://nitter.poast.org/EmmaGoldmanBCTX/status/1909069222505853322
+			- corner of with white beams is anarchy works ^
 			- unidentified
 				- all black with eclipse crescent. baedan
 				- all black with small curlicue. (also baedan?)
-				- hand palm out
 				- some sort of dinosaur cartoons or something
-				- corner of something, white beams or circle a over black
 			- ^ all bound books i think
 		- printing press
 			- dead sister poetry
@@ -129,23 +131,28 @@
 				- https://theanarchistlibrary.org/library/mary-nardini-gang-criminal-intimacy
 				- https://ia803104.us.archive.org/24/items/ZineArchive/WritingsOfTheMaryNardiniGang1.pdf
 					- not the same cover, actually is a collection of several short pieces
-
-			- lies: letters to L. ... journal of materialist feminism
+			- lies: letters to L. paranoia and vision journal of materialist feminism
+			- las vegas type signs, "striporama" visible - butterflies, polyamory and ideology
+				- https://nitter.poast.org/EmmaGoldmanBCTX/status/1861437010637897731#m
+				- https://web.archive.org/web/20230117110232/http://www.non-fides.fr/?Butterflies-polyamory-and-ideology
+				- https://web.archive.org/web/20230109063431/https://untorellipress.noblogs.org/
+				- https://theanarchistlibrary.org/library/aviv-etrebilal-butterflies-polyamory-and-ideology
+			- Open propositions for a strategic madness
+				- https://nitter.poast.org/EmmaGoldmanBCTX/status/1861437010637897731#m
+				- https://web.archive.org/web/20210624090104/https://www.unsoundmind.org/post/open-propositions-for-a-strategic-madness
+				- https://ofunsoundmind.substack.com/p/open-propositions-for-a-strategic
+				- https://web.archive.org/web/20210806020015/https://www.unsoundmind.org/post/zines-posters-and-newsletters
+				- pdfs are broken, seems to use some js... can't tell if they're there or where there is
 			- SRA constitutional carry "what it means for you"
 				- seems to be from DFW SRA based on the logo and knowledge of the case. maybe on their instagram somewhere https://www.instagram.com/sra_dfw/
 			- mansfield's school [de?]segregation history ..65-1965, texas anarchist logo
 				- i got nothing. is there another place that ends in -nsfield?
-			- las vegas type signs, "striporama" visible
-				- this place might have it ("striporama" listed next to a bunch of stuff like mary nardini)... but not sharing. could contact them (once I have the rest done...) https://www.cvllc.ca/zine-catalogue
-			- ..ns - striking art
-				- for some reason i feel this is some pomo deleuze/guattari type thing. talking about schizophrenia but not really or whatever
-				- oh shit we can tineye these
 			- "call" with creepy guys
 			- read my lips fight ??? (maybe a poster?)
 			- biden's (president, free..., failure)? state sponsor ... causing hardship?
 			- the anar[chist?] te[mple?]??? old timey religious/occult type art
-			- why we must???
-			- FTP - fight... feel... freedom... fucking? seems familiar
+			- why we must??? need?
+			- FTP - fight... feel... freedom... fucking? seems familiar. crimethinc?
 
 			- already have: queerest insurrection, i don't bash back, if we go
 			- stickers
@@ -191,6 +198,7 @@
 			- tomorrow is canceled - ch. 1 of Now
 			- for the ones to come - Now
 			- another unknown issue of lies
+				- twitter-2: sky palace
 			- stickers
 				- "uenmo egbctx" - actually cross stitch
 				- filth is our politics
@@ -223,7 +231,9 @@
 				- haters
 			- lies
 		- riotsville USA (film they screened)
-		- display: some unidentified zines, maybe harm reduction and prison support, distinctive covers
+		- display
+			- pills is How to Give Yourself an Abortion by airelle swernoff https://haters.noblogs.org/files/2021/11/JC-Abortion-imposed.pdf
+			- phone is Jane: Documents from Chicago’s Clandestine Abortion Services, 1968-1973 https://ia803205.us.archive.org/31/items/abortion-zines/jane-1.pdf
 		- another table
 			- re-attachments (visible in seed)
 			- many illegible
@@ -236,7 +246,10 @@
 		- table-wide: can't make anything out but cool anti border flags
 		- might be more with an fb account if i ever get through these
 		- also instagram: https://www.instagram.com/eg_bc_tx/
+
 	- states of siege https://community.apprenticeoakcliff.org/events/1415513894/emma-goldman-book-club?&v=latest
+		- also on twitter
+
 	- seed https://hotel-florida.ghost.io/the-seeds-of-prairieland/
 		- Shattering Abolition
 		- re-attachments: towards an ecology of presence
@@ -244,7 +257,7 @@
 		- plantocracy & communism
 			- haters
 		- against innocence
-		- a short introduction to ... by hostis
+		- a short introduction to politics of cruelty (haters)
 		- reparation as a demand verb
 		- kill the couple in your head
 		- on insurgent histories and the abolitionist imaginary
@@ -252,15 +265,30 @@
 			- https://ruinsofcapital.noblogs.org/insurgent-histories-and-the-abolitionist-imaginary/
 			- https://www.artforum.com/columns/saidiya-hartman-on-insurgent-histories-and-the-abolitionist-imaginary-248115/
 		- acrid black smoke (got it)
-		- unidentified
 			- very back
-			- between _mothering_ and _the city_
-			- little sliver on the corner
+		- between _mothering_ and _the city_ is "born palestinian, born black" by sarah ihmoud. by haters
+		- little sliver on the corner is "why I left the PSL", visible in twitter pics
 		- already found: let's destitute, desert, repair, witch's child, wanderings of the slave, organizing for attack, mothering against motherhood, city in the forest, queer goetia, don't bash back, dirty work, end of the world
+	- twitter
+		- https://nitter.poast.org/EmmaGoldmanBCTX/status/1832906995029901504#m
+			- Were Trying to destroy the world antiblackness and police violence after ferguson
+			- in depth interviews with 3 members of fauda the anarchist movement in palestine
+		- against the couple form
+		- dixie be damned
+		- STAR
+		- Why we need mass shooters to be crazy
+		- Farmer's almanac
+		- friendship is a root of freedom
+		- introduction to the apocalypse
+		- as free as blackness will make them
+		- twitter-4 several in background
+	- ig
+		- uprising survival guide - crimethinc
 	- i could have sworn i saw "what is an apparatus" somewhere
 		- https://friendship-as-a-form-of-life.tumblr.com/download
 - is "visualize industrial collapse" a zine i can't find or just a bumper sticker? iono shit about anticiv
 	- funny how fascism makes me perfectly happy to support them, baedan wank, etc, lol
+	- it is a STICKER https://nitter.poast.org/EmmaGoldmanBCTX/status/1845548423027491301#m
 - mosaic compat
 	- some zines crash mosaic. usually this is due to missing resources. find and strip them
 		- actually i think it's just the pngs - see if i missed any that could be gif or jpg
