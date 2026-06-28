@@ -31,6 +31,7 @@
 			- in notes they refer to "insurgency" many times but i think it might actually be "on insurgent history"?
 	- https://theanarchistlibrary.org/library/the-relevance-of-the-prairieland-conviction-to-printers-and-zine-distributors#toc2
 		- same as the anews comment
+		- should i double check that i can verify the initial firestorm list? trust but verify
 	- guardian text - unclear if presented as evidence, part of egbc
 		- a journal of materialist feminism
 		- a call for the eradication of artificial intelligence from the face of the earth
