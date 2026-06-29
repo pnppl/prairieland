@@ -20,6 +20,10 @@
 		<meta name="description" content="Prairieland Zines evidence map">
 		<title>Prairieland Zines - evidence map | pnppl.cc</title>
 		<style><!--
+		html,
+		body {
+			overflow-x: initial;
+		}
 		.content,
 		.article,
 		#main,
@@ -29,6 +33,14 @@
 			max-width: 1000px !important;
 			height: 1003px !important;
 			max-height: 1003px !important;
+		}
+		#warning {
+			display: none;
+		}
+		@media screen and (max-width: 767px) {
+			#warning {
+				display: inline;
+			}
 		}
 		--></style>
 	</head>
@@ -75,6 +87,7 @@
 	</div>
 	<div class="content">
 		<div class="view" id="article" role="article"><hr class="is-hidden">
+			<p id="warning">This part of the library isn't optimized for mobile. Sorry!</p>
 			<center>
 				<hr class="is-hidden">
 				<img id="evidence" src="sources/guardian-motherlode.jpeg" alt="A bunch of zines, stickers, and patches spread out like contraband. There's a yellow evidence number visible: 41." usemap="#map" width="1000" height="1003">
