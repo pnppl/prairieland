@@ -1,5 +1,4 @@
 - add markdown versions
-- redo "war" - has sources listed, shouldn't be too bad
 - add section collecting links to donate
 - add section about the state's transmisogyny (they are so fascist in tx the gov deadnames people who legally changed their name, jfc)
 - add zines
@@ -143,11 +142,16 @@
 				- https://ofunsoundmind.substack.com/p/open-propositions-for-a-strategic
 				- https://web.archive.org/web/20210806020015/https://www.unsoundmind.org/post/zines-posters-and-newsletters
 				- pdfs are broken, seems to use some js... can't tell if they're there or where there is
+			- "call" with creepy guys
+				- should be good to go but will be more work
+				- https://ill-will-editions.tumblr.com/post/152254733939/call-2004-updated-covers-in-english-and
+				- i believe this is also the source of the mystery "proposition [roman numeral]" zines i've been seeing in other pics
+				- screen version is fucked up, need to fix
+				- https://theanarchistlibrary.org/library/anonymous-call
 			- SRA constitutional carry "what it means for you"
 				- seems to be from DFW SRA based on the logo and knowledge of the case. maybe on their instagram somewhere https://www.instagram.com/sra_dfw/
 			- mansfield's school [de?]segregation history ..65-1965, texas anarchist logo
 				- i got nothing. is there another place that ends in -nsfield?
-			- "call" with creepy guys
 			- read my lips fight ??? (maybe a poster?)
 			- biden's (president, free..., failure)? state sponsor ... causing hardship?
 			- the anar[chist?] te[mple?]??? old timey religious/occult type art
@@ -268,6 +272,8 @@
 			- very back
 		- between _mothering_ and _the city_ is "born palestinian, born black" by sarah ihmoud. by haters
 		- little sliver on the corner is "why I left the PSL", visible in twitter pics
+		- at daggers drawn in back corner
+			- https://egbctx.tumblr.com/post/707165596165488640/much-love-to-everyone-who-came-out-last-night-and#notes
 		- already found: let's destitute, desert, repair, witch's child, wanderings of the slave, organizing for attack, mothering against motherhood, city in the forest, queer goetia, don't bash back, dirty work, end of the world
 	- twitter
 		- https://nitter.poast.org/EmmaGoldmanBCTX/status/1832906995029901504#m
@@ -286,6 +292,7 @@
 		- uprising survival guide - crimethinc
 	- i could have sworn i saw "what is an apparatus" somewhere
 		- https://friendship-as-a-form-of-life.tumblr.com/download
+	- Huge list, jesus christ I wish i'd seen this sooner. many listed here i haven't seen elsewhere https://egbctx.tumblr.com/readings
 - is "visualize industrial collapse" a zine i can't find or just a bumper sticker? iono shit about anticiv
 	- funny how fascism makes me perfectly happy to support them, baedan wank, etc, lol
 	- it is a STICKER https://nitter.poast.org/EmmaGoldmanBCTX/status/1845548423027491301#m
@@ -294,7 +301,6 @@
 		- actually i think it's just the pngs - see if i missed any that could be gif or jpg
 	- a bunch of TAL zines have an XML declaration on top that firefox says is invalid and gets printed in mosaic
 	- ! the de-re-emdash-ifier isn't working on links, so the link to "safety" has a broken character in mosaic
-	- "war" is completely broken
 	- "de-arrest" figcaptions need a <br> or something, they show inline with the image
 - give it its own pagefind instance
 - banner image?
