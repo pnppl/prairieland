@@ -68,7 +68,7 @@
 		- flag - possibly one bottom right behind the light, shows a seed growing. also who made that flag?
 			- 90% sure it is not plant propagation for the people
 		- 8 things you can do to stop ice pamphlet
-			- good to go
+			- done
 			- https://crimethinc.com/2025/02/11/eight-things-you-can-do-to-stop-ice
 			- should i name printables differently when they're still for letter paper but fold up differently?
 				- no, it is still printed the same way. but maybe they should be listed in a separate section
@@ -95,7 +95,7 @@
 				- https://www.partisangardens.org/podcast/february-2022-retrosuburbia-with-david-holmgren%ef%bf%bc/
 				- https://territories.substack.com/p/hacking-the-suburbs
 			- no selves to abolish
-				- good to go if i use imposer
+				- done, had to use imposer
 				- https://incivility.org/2020/06/03/no-selves-to-abolish-afropessimism-anti-politics-and-the-end-of-the-world-by-k-aarons/
 				- https://web.archive.org/web/20160311000846/http://www.metamute.org/editorial/articles/no-selves-to-abolish-afropessimism-anti-politics-and-end-world
 				- https://illwilleditions.noblogs.org/post/2015/09/19/catalogue/
@@ -112,16 +112,23 @@
 					- different cover
 					- chapter four of Now. any point including it separately? if it were the same exact version it would make sense, but we already have it in another version...
 			- the harvest of dead elephants
+				- done
 				- should be good to go with de-imposer. double check it's actually print ready
+					- deimp script is totally failing on this
+						- fixed by reprinting
 				- https://azinelibrary.org/zines/Harvest-of-Dead-Elephants-The-The-False-Opposition-of-Animal-Liberation
 				- https://theanarchistlibrary.org/library/various-authors-a-murder-of-crows#toc53
 			- cop city FAQ
 				- https://defendtheatlantaforest.org/wp-content/uploads/2022/07/dtf-media-kit.pdf
 				- don't think there's an imposed version. need html
 			- follow the fires
+				- done. noticed TAL has it *after* redoing the html my way...
 				- good to go with de-imposer
+					- deimp script fails, also fails with the different version of the zine on zlo
+						- fixed with reprint
 				- https://ruinsofcapital.noblogs.org/follow-the-fires/
 				- https://web.archive.org/web/20240705045730/https://livingandfighting.net/Follow-the-Fires
+				- https://zinelibrary.org/follow-the-fires-insurgency-against-identity.html
 			- old timey map?
 				- think it's strange constellations, it is in other pics https://friendship-as-a-form-of-life.tumblr.com/download
 				- need html
@@ -146,10 +153,16 @@
 				- https://web.archive.org/web/20210806020015/https://www.unsoundmind.org/post/zines-posters-and-newsletters
 				- pdfs are broken, seems to use some js... can't tell if they're there or where there is
 			- "call" with creepy guys
-				- should be good to go but will be more work
+				- done
 				- https://ill-will-editions.tumblr.com/post/152254733939/call-2004-updated-covers-in-english-and
 				- i believe this is also the source of the mystery "proposition [roman numeral]" zines i've been seeing in other pics
 				- screen version is fucked up, need to fix
+					- this was a pain in the ass. in case I have to do this again...
+						- first page was first page of print version -- landscape letter with both covers.
+						- first tried de-imposing the print version. this resulted in text that jumped side to side
+						- solution: splice the fist and last pages of the de-imposed version with pages 2- from the screen version
+						- but now i discover the rest of the screen version is some random size, like a6 or something, and the de-imposed version is showing as 5.5x11 (ie 1/2 letter)
+						- solution: reprint (literally open in atril and hit print) middle pages at custom 5.5x8 page size, then concat with pdftk
 				- https://theanarchistlibrary.org/library/anonymous-call
 			- SRA constitutional carry "what it means for you"
 				- seems to be from DFW SRA based on the logo and knowledge of the case. maybe on their instagram somewhere https://www.instagram.com/sra_dfw/
