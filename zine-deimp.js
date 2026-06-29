@@ -67,7 +67,7 @@
   var cfg = Object.assign({
     selector:      'a[href$=".pdf"]',
     sameOriginOnly: false,
-    pdfLibUrl:     'https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.min.js',
+    pdfLibUrl:     'pdf-lib.min.js',
     filenameSuffix: '_reading',
     onStart:    function() {},
     onComplete: function() {},

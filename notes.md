@@ -71,7 +71,9 @@
 			- good to go
 			- https://crimethinc.com/2025/02/11/eight-things-you-can-do-to-stop-ice
 			- should i name printables differently when they're still for letter paper but fold up differently?
+				- no, it is still printed the same way. but maybe they should be listed in a separate section
 			- can probably chop it up into a linear screen version automatically? pdftk or sth?
+				- seems annoying and kind of pointless
 		- seeds
 			- propagation for the people vol 1 & 2
 				- https://botanicalgarden.ubc.ca/news-events/two-new-propagation-zines-by-dr-erin-despard/
@@ -82,11 +84,11 @@
 		- both versions of the crimethinc gender poster
 		- motherlode
 			- be gay do crime
-				- good to go
+				- done
 				- https://haters.noblogs.org/zines/
 				- https://theanarchistlibrary.org/library/mary-nardini-gang-be-gay-do-crime
 			- on the black leadership & other white myths
-				- good to go
+				- done
 				- https://illwill.com/print/on-the-black-leadership-and-other-white-myths
 			- hacking the suburbs - in conversation with partisan gardens? (compare to fb-pile)
 				- need pdf. is it really just a podcast transcript?
@@ -102,7 +104,8 @@
 				- https://haters.noblogs.org/zines/
 				- need html
 			- acrid black smoke
-				- good to go i think
+				- add images to html manually
+				- https://phlanticap.noblogs.org/new-zine-acrid-black-smoke/
 				- https://haters.noblogs.org/zines/
 			- let's destitute the world
 				- https://ruinsofcapital.noblogs.org/files/2019/10/Lets-Destitute-The-World.pdf
@@ -303,7 +306,7 @@
 	- ! the de-re-emdash-ifier isn't working on links, so the link to "safety" has a broken character in mosaic
 	- "de-arrest" figcaptions need a <br> or something, they show inline with the image
 - give it its own pagefind instance
-- banner image?
+- banner image? some of the "evidence photos" presenting zines like a crime scene would be good
 - automate updating the shitty TAL print styles
 - set dark mode bg to #000 on everything
 	sd -n 1 -- '\t--></style>' '\t\t@media screen and (prefers-color-scheme: dark) {\n\t\t\tbody {\n\t\t\t\tbackground: black !important;\n\t\t\t}\n\t\t}\n\t--></style>' index.html
@@ -313,3 +316,11 @@
 	caesium --quality 80 --format jpeg $file
 - the ADL is mad about several of these https://www.adl.org/resources/article/time-escalate-anti-israel-activists-intensify-protests-violent-direct-actions
 - recreate the emma goldman book club flier that's in like every picture as a blank template people can fill in with their own chapter
+
+
+fix TAL
+sed -i 's/  /\t/g'
+sd -n 1 -- '</title>' '</title>\n\t<meta name="color-scheme" content="light dark">\n\t<meta name="viewport" content="width=device-width, initial-scale=1">\n\t<style><!--\n\t\t* {\n\t\t\tcolor: initial !important;\n\t\t}\n\t\tbody {\n\t\t\tmax-width: 80ch !important;\n\t\t\tpadding: 0 0.75em !important;\n\t\t}\n\t\tdiv#page {\n\t\t\tmargin: 0 !important;\n\t\t\tpadding: 0 !important;\n\t\t}\n\t\t@media screen and (prefers-color-scheme: dark) {\n\t\t\tbody {\n\t\t\t\tbackground: black !important;\n\t\t\t}\n\t\t}\n\t--></style>\n'
+klean
+
+
