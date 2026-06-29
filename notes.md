@@ -212,6 +212,7 @@
 		- shelf: many unidentified in background
 			- short introduction to the politics of cruelty - haters
 			- kill the couple in your head - ZLO, https://ungratefulhyenas.noblogs.org/post/2021/04/29/kill-the-couple-in-your-head/
+			- the interregnum (haters)
 		- table
 			- unidentified in background
 				- think i have all these (listed) now except maybe some little corners
