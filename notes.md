@@ -339,3 +339,5 @@ sd -n 1 -- '</title>' '</title>\n\t<meta name="color-scheme" content="light dark
 klean
 
 
+add pdf links
+sd -n 1 '<body([^>]+)?>' '<body$1>\n<p style="margin-left:auto; width:fit-content; padding-right:1ch">PDF: <a href="'$name.pdf'">screen</a> · <a href="'$name'_print-letter.pdf">print</a></p>' $file
