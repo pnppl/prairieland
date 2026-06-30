@@ -137,6 +137,7 @@
 				- https://friendship-as-a-form-of-life.tumblr.com/download
 				- need html
 			- criminal intimacy: a gang of crimininal queers - bash back (thx fb pic)
+				- done with de-imp
 				- https://theanarchistlibrary.org/library/mary-nardini-gang-criminal-intimacy
 				- https://archive.org/details/criminal-intimacy-print-zine/
 				- https://ia803104.us.archive.org/24/items/ZineArchive/WritingsOfTheMaryNardiniGang1.pdf
