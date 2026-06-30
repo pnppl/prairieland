@@ -171,7 +171,7 @@
 						- first page was first page of print version -- landscape letter with both covers.
 						- first tried de-imposing the print version. this resulted in text that jumped side to side
 						- solution: splice the fist and last pages of the de-imposed version with pages 2- from the screen version
-						- but now i discover the rest of the screen version is some random size, like a6 or something, and the de-imposed version is showing as 5.5x11 (ie 1/2 letter)
+						- but now i discover the rest of the screen version is some random size, like a6 or something, and the de-imposed version is showing as 5.5x8 (ie 1/2 letter)
 						- solution: reprint (literally open in atril and hit print) middle pages at custom 5.5x8 page size, then concat with pdftk
 					- just realized Now is the same way. that one has art that extends so it makes more sense? maybe i should have left this alone
 				- https://theanarchistlibrary.org/library/anonymous-call
