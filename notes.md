@@ -134,8 +134,9 @@
 				- need html
 				- has spanish version. shit it didn't even occur to me i could make this multi language. each one is a lot of extra work if i have to make the html and i won't spot my errors
 			- absolute sharing between friends
+				- done
+				- this is a poster at 11x17 "tabloid" size. illegibly small if i reprint as letter. just leaving it as is
 				- https://friendship-as-a-form-of-life.tumblr.com/download
-				- need html
 			- criminal intimacy: a gang of crimininal queers - bash back (thx fb pic)
 				- done with de-imp
 				- https://theanarchistlibrary.org/library/mary-nardini-gang-criminal-intimacy
@@ -158,6 +159,7 @@
 				- https://theanarchistlibrary.org/library/aviv-etrebilal-butterflies-polyamory-and-ideology
 				- https://zinelibrary.org/butterflies-polyamory-ideology.html
 			- Open propositions for a strategic madness
+				- put it up but still need pdf
 				- https://nitter.poast.org/EmmaGoldmanBCTX/status/1861437010637897731#m
 				- https://web.archive.org/web/20210624090104/https://www.unsoundmind.org/post/open-propositions-for-a-strategic-madness
 				- https://ofunsoundmind.substack.com/p/open-propositions-for-a-strategic
