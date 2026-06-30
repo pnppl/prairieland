@@ -141,6 +141,12 @@
 				- https://ia803104.us.archive.org/24/items/ZineArchive/WritingsOfTheMaryNardiniGang1.pdf
 					- not the same cover, actually is a collection of several short pieces
 			- lies: letters to L. paranoia and vision journal of materialist feminism
+				- done - used imposer and re-printed (came out weird size)
+				- different cover tho
+				- https://www.liesjournal.net/volume1-04-letterstol.html
+				- https://www.liesjournal.net/volume1-04-letterstol.pdf
+				- https://www.liesjournal.net/
+				- https://theanarchistlibrary.org/library/m-sandovsky-letters-to-l-paranoia-and-visions
 			- las vegas type signs, "striporama" visible - butterflies, polyamory and ideology
 				- https://nitter.poast.org/EmmaGoldmanBCTX/status/1861437010637897731#m
 				- https://web.archive.org/web/20230117110232/http://www.non-fides.fr/?Butterflies-polyamory-and-ideology

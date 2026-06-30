@@ -1,0 +1,91 @@
+body,div,p {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'Maison neue';
+	font-weight: 300;
+	letter-spacing: .01em;
+	font-size: 1em;
+	line-height: 22px;
+	background: whitesmoke;
+	margin: auto;
+	max-width: 80ch;
+}
+
+p {
+	padding: 2em 1em;
+}
+
+ .essay-title {
+	font-size: 2em;
+	padding-top: 30px;
+	font-weight: 300;
+	line-height: 1;
+}
+
+ .author, .inside-title {
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: .02em;
+	padding: 10px 0 0 0;
+}
+
+p:first-of-type {
+	padding-top: 30px;
+}
+.content {
+	padding-top: 20px;
+	overflow: visible;
+	text-align: center;
+	background: whitesmoke;
+	padding-bottom: 60px;
+	padding-top: 20px;
+}
+
+.essay {
+	text-align: left;
+}
+
+.essay-title {
+		padding-top: 10px;
+}
+
+.inside-title {
+	padding: 0.5em 1em 0;
+}
+
+.essay p {
+	padding-bottom: 10px;
+}
+
+.epigraph {
+	font-size: 0.9em;
+	text-align: center;
+	line-height: 20px;
+	font-style: italic;
+}
+
+.epigraph-attribution {
+	font-size: 0.9em;
+	text-align: center;
+	line-height: 20px;
+	margin-top: -20px;
+}
+
+h2 {
+	font-size: 1em;
+}
+
+hr {
+	margin-top: 2em;
+	width: 2em;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+	body,
+	.content {
+		background: black;
+	}
+}
