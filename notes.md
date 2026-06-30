@@ -138,8 +138,10 @@
 				- need html
 			- criminal intimacy: a gang of crimininal queers - bash back (thx fb pic)
 				- https://theanarchistlibrary.org/library/mary-nardini-gang-criminal-intimacy
+				- https://archive.org/details/criminal-intimacy-print-zine/
 				- https://ia803104.us.archive.org/24/items/ZineArchive/WritingsOfTheMaryNardiniGang1.pdf
 					- not the same cover, actually is a collection of several short pieces
+				- really wanna find the cover they have if possible, looks really pretty from what i can see. suspect they made it tho
 			- lies: letters to L. paranoia and vision journal of materialist feminism
 				- done - used imposer and re-printed (came out weird size)
 				- different cover tho
@@ -148,10 +150,12 @@
 				- https://www.liesjournal.net/
 				- https://theanarchistlibrary.org/library/m-sandovsky-letters-to-l-paranoia-and-visions
 			- las vegas type signs, "striporama" visible - butterflies, polyamory and ideology
+				- done
 				- https://nitter.poast.org/EmmaGoldmanBCTX/status/1861437010637897731#m
 				- https://web.archive.org/web/20230117110232/http://www.non-fides.fr/?Butterflies-polyamory-and-ideology
-				- https://web.archive.org/web/20230109063431/https://untorellipress.noblogs.org/
+				- https://web.archive.org/web/20190817110450/https://untorellipress.noblogs.org/post/2018/07/23/butterflies-polyamory-ideology-letter-on-inconsequence/
 				- https://theanarchistlibrary.org/library/aviv-etrebilal-butterflies-polyamory-and-ideology
+				- https://zinelibrary.org/butterflies-polyamory-ideology.html
 			- Open propositions for a strategic madness
 				- https://nitter.poast.org/EmmaGoldmanBCTX/status/1861437010637897731#m
 				- https://web.archive.org/web/20210624090104/https://www.unsoundmind.org/post/open-propositions-for-a-strategic-madness
