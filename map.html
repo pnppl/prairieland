@@ -52,9 +52,11 @@
 			opacity: 0.2;
 			stroke: black;
 		}
+		/* todo: rearrange polys into sensible order for tabbing through */
 		#svg-map polygon:hover,
 		#svg-map polygon:active,
-		#svg-map polygon:focus-visible {
+		#svg-map polygon:focus-visible,
+		#svg-map a:focus polygon {
 			fill: transparent;
 			stroke: transparent;
 		}
