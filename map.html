@@ -22,24 +22,100 @@
 		<style><!--
 		html,
 		body {
-			overflow-x: initial;
+			overflow-x: clip;
 		}
-		.content,
-		.article,
-		#main,
+		.content {
+			text-align: center;
+		}
+		/* we have to set a pixel width and scale with transforms or the map becomes misaligned because everything is horrible */
 		#evidence {
-			/* misaligned otherwise, very irritating */
-			width: 1000px !important;
-			max-width: 1000px !important;
-			height: 1003px !important;
-			max-height: 1003px !important;
+			width: 1000px;
+			max-width: 1000px;
+			transform-origin: top left;
 		}
-		#warning {
-			display: none;
+		@media screen and (max-width: 1075px) {
+			#evidence {
+				transform: scale(0.9);
+			}
 		}
-		@media screen and (max-width: 767px) {
-			#warning {
-				display: inline;
+		@media screen and (max-width: 950px) {
+			#evidence {
+				transform: scale(0.85) !important;
+			}
+		}
+		@media screen and (max-width: 900px) {
+			#evidence {
+				transform: scale(0.8) !important;
+			}
+		}
+		@media screen and (max-width: 850px) {
+			#evidence {
+				transform: scale(0.75) !important;
+			}
+		}
+		@media screen and (max-width: 800px) {
+			#evidence {
+				transform: scale(0.7) !important;
+			}
+		}
+		@media screen and (max-width: 750px) {
+			#evidence {
+				transform: scale(0.65) !important;
+			}
+		}
+		@media screen and (max-width: 700px) {
+			#evidence {
+				transform: scale(0.6) !important;
+			}
+		}
+		@media screen and (max-width: 650px) {
+			#evidence {
+				transform: scale(0.55) !important;
+			}
+		}
+		@media screen and (max-width: 600px) {
+			#evidence {
+				transform: scale(0.5) !important;
+			}
+		}
+		@media screen and (max-width: 550px) {
+			#evidence {
+				transform: scale(0.45) !important;
+			}
+		}
+		@media screen and (max-width: 500px) {
+			#evidence {
+				transform: scale(0.4) !important;
+			}
+		}
+		@media screen and (max-width: 450px) {
+			#evidence {
+				transform: scale(0.35) !important;
+			}
+		}
+		@media screen and (max-width: 400px) {
+			#evidence {
+				transform: scale(0.3) !important;
+			}
+		}
+		@media screen and (max-width: 350px) {
+			#evidence {
+				transform: scale(0.25) !important;
+			}
+		}
+		@media screen and (max-width: 300px) {
+			#evidence {
+				transform: scale(0.2) !important;
+			}
+		}
+		@media screen and (max-width: 250px) {
+			#evidence {
+				transform: scale(0.15) !important;
+			}
+		}
+		@media screen and (max-width: 200px) {
+			#evidence {
+				transform: scale(0.1) !important;
 			}
 		}
 		--></style>
@@ -87,9 +163,9 @@
 	</div>
 	<div class="content">
 		<div class="view" id="article" role="article"><hr class="is-hidden">
-			<p id="warning">This part of the library isn't optimized for mobile. Sorry!</p>
-			<center>
-				<hr class="is-hidden">
+
+			<hr class="is-hidden">
+
 				<img id="evidence" src="sources/guardian-motherlode.jpeg" alt="A bunch of zines, stickers, and patches spread out like contraband. There's a yellow evidence number visible: 41." usemap="#map" width="1000" height="1003">
 
 				<map name="map">
@@ -131,10 +207,10 @@
 <!--				    <area target="" alt="?blue?" title="?blue?" href="./?blue?" coords="499,528,434,519,429,535" shape="poly">-->
 				</map>
 
-				<br>
-				<p><strong>Download all: <a rel="noopener noreferrer" referrerpolicy="no-referrer" href="https://git.gay/pnppl/pnppl.cc/archive/main:site/prairieland.zip"><span class="link-text">git.gay</span></a> &#183; <a rel="noopener noreferrer" referrerpolicy="no-referrer" href="https://codeberg.org/pnppl/pnppl.cc/archive/main:site/prairieland.zip"><span class="link-text">Codeberg</span></a> &#183; <a rel="noopener noreferrer" referrerpolicy="no-referrer" href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpnppl%2Fpnppl.cc%2Ftree%2Fmain%2Fsite%2Fprairieland%2F"><span class="link-text">Github</span></a></strong></p>
-				<p><strong><a href="."><span class="link-text">&lt;-- Back to Prairieland Zines main page</span></a></strong></p>
-			</center>
+			<br>
+			<p><strong>Download all: <a rel="noopener noreferrer" referrerpolicy="no-referrer" href="https://git.gay/pnppl/pnppl.cc/archive/main:site/prairieland.zip"><span class="link-text">git.gay</span></a> &#183; <a rel="noopener noreferrer" referrerpolicy="no-referrer" href="https://codeberg.org/pnppl/pnppl.cc/archive/main:site/prairieland.zip"><span class="link-text">Codeberg</span></a> &#183; <a rel="noopener noreferrer" referrerpolicy="no-referrer" href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpnppl%2Fpnppl.cc%2Ftree%2Fmain%2Fsite%2Fprairieland%2F"><span class="link-text">Github</span></a></strong></p>
+			<p><strong><a href="."><span class="link-text">&lt;-- Back to Prairieland Zines main page</span></a></strong></p>
+
 		</div>
 		<hr>
 		<footer>
