@@ -27,96 +27,36 @@
 		.content {
 			text-align: center;
 		}
-		/* we have to set a pixel width and scale with transforms or the map becomes misaligned because everything is horrible */
-		#evidence {
+		#classic-map {
 			width: 1000px;
 			max-width: 1000px;
-			transform-origin: top left;
 		}
-		@media screen and (max-width: 1075px) {
-			#evidence {
-				transform: scale(0.9);
+		#svg-map {
+			display: none;
+			max-width: 1000px;
+			height: auto;
+			margin: auto;
+		}
+		@supports (fill: url(#test)) {
+			map,
+			#classic-map {
+				display: none;
+			}
+			#svg-map {
+				display: block;
 			}
 		}
-		@media screen and (max-width: 950px) {
-			#evidence {
-				transform: scale(0.85) !important;
-			}
+		#svg-map rect,
+		#svg-map polygon {
+			fill: black;
+			opacity: 0.2;
+			stroke: black;
 		}
-		@media screen and (max-width: 900px) {
-			#evidence {
-				transform: scale(0.8) !important;
-			}
-		}
-		@media screen and (max-width: 850px) {
-			#evidence {
-				transform: scale(0.75) !important;
-			}
-		}
-		@media screen and (max-width: 800px) {
-			#evidence {
-				transform: scale(0.7) !important;
-			}
-		}
-		@media screen and (max-width: 750px) {
-			#evidence {
-				transform: scale(0.65) !important;
-			}
-		}
-		@media screen and (max-width: 700px) {
-			#evidence {
-				transform: scale(0.6) !important;
-			}
-		}
-		@media screen and (max-width: 650px) {
-			#evidence {
-				transform: scale(0.55) !important;
-			}
-		}
-		@media screen and (max-width: 600px) {
-			#evidence {
-				transform: scale(0.5) !important;
-			}
-		}
-		@media screen and (max-width: 550px) {
-			#evidence {
-				transform: scale(0.45) !important;
-			}
-		}
-		@media screen and (max-width: 500px) {
-			#evidence {
-				transform: scale(0.4) !important;
-			}
-		}
-		@media screen and (max-width: 450px) {
-			#evidence {
-				transform: scale(0.35) !important;
-			}
-		}
-		@media screen and (max-width: 400px) {
-			#evidence {
-				transform: scale(0.3) !important;
-			}
-		}
-		@media screen and (max-width: 350px) {
-			#evidence {
-				transform: scale(0.25) !important;
-			}
-		}
-		@media screen and (max-width: 300px) {
-			#evidence {
-				transform: scale(0.2) !important;
-			}
-		}
-		@media screen and (max-width: 250px) {
-			#evidence {
-				transform: scale(0.15) !important;
-			}
-		}
-		@media screen and (max-width: 200px) {
-			#evidence {
-				transform: scale(0.1) !important;
-			}
+		#svg-map polygon:hover,
+		#svg-map polygon:active,
+		#svg-map polygon:focus-visible {
+			fill: transparent;
+			stroke: transparent;
 		}
 		--></style>
 	</head>
@@ -166,46 +106,202 @@
 
 			<hr class="is-hidden">
 
-				<img id="evidence" src="sources/guardian-motherlode.jpeg" alt="A bunch of zines, stickers, and patches spread out like contraband. There's a yellow evidence number visible: 41." usemap="#map" width="1000" height="1003">
+			<style><!--/* pre-CSS hide... */</style>
+			<svg id="svg-map" viewBox="0 0 1000 1000">
+				<defs>
+					<mask id="cutout">
+						<rect width="100%" height="100%" fill="white"/>
+						<polygon points="126,427,203,631,343,573,262,371" fill="black"/>
+						<polygon points="803,83,817,220,763,227,778,279,914,278,888,82" fill="black"/>
+						<polygon points="574,516,570,476,717,463,723,520,674,528,678,554,653,558,650,520" fill="black"/>
+						<polygon points="599,309,614,468,676,464,689,308" fill="black"/>
+						<polygon points="504,69,518,207,538,205,556,213,568,226,571,239,570,256,658,250,636,62" fill="black"/>
+						<polygon points="655,218,672,221,674,231,758,228,772,280,769,286,659,254" fill="black"/>
+						<polygon points="649,572,648,638,667,720,889,662,847,522" fill="black"/>
+						<polygon points="690,300,677,464,716,459,726,521,760,516,795,321,823,321,710,298" fill="black"/>
+						<polygon points="549,444,399,440,396,533,426,534,433,516,499,528,513,526,512,514,547,513" fill="black"/>
+						<polygon points="447,301,405,308,388,313,368,312,356,311,354,317,302,324,305,344,354,341,368,340,380,528,394,527,401,440,425,439" fill="black"/>
+						<polygon points="796,323,764,515,889,502,902,543,921,401,934,349" fill="black"/>
+						<polygon points="546,3,539,63,591,63,593,29,673,34,677,23" fill="black"/>
+						<polygon points="333,647,351,889,508,871,483,632" fill="black"/>
+						<polygon points="534,65,544,15,505,6,491,190,512,193,506,65" fill="black"/>
+						<polygon points="595,30,591,63,636,62,657,220,713,224,725,37,666,36" fill="black"/>
+						<polygon points="601,315,519,310,516,441,549,444,550,514,573,515,567,472,613,466" fill="black"/>
+						<!--	<polygon points="676,223,681,230,760,226,815,218,797,33,726,44,714,227" fill="black"/>-->
+						<polygon points="228,381,228,354,367,343,380,537,369,541,369,560,340,560,260,369" fill="black"/>
+						<polygon points="449,285,512,293,486,299,481,440,426,440" fill="black"/>
+						<polygon points="626,298,484,296,481,442,512,443,518,307,598,313,606,309,626,308" fill="black"/>
+						<polygon points="371,540,518,529,537,766,500,770,483,630,460,633,456,604,372,609" fill="black"/>
+						<!--	<polygon points="452,605,303,617,318,859,346,857,331,645,458,633,455,619" fill="black"/>-->
+						<!--	<polygon points="651,562,679,554,675,527,889,502,910,577,916,628,947,710,963,769,730,825,690,715,888,662,846,522,651,569" fill="black"/>-->
+						<!--	<polygon points="515,515,648,520,643,700,632,708,561,709,577,542,519,530,513,528" fill="black"/>-->
+						<!--	<polygon points="303,300,110,315,111,501,152,499,125,426,227,383,226,351,304,346" fill="black"/>-->
+						<!--	<polygon points="304,636,236,651,277,889,349,874,349,859,319,858" fill="black"/>-->
+						<!--	<polygon points="245,716,195,735,252,905,308,885,276,886" fill="black"/>-->
+						<!--	<polygon points="237,673,174,698,202,763,197,732,245,715" fill="black"/>-->
+						<!--	<polygon points="304,886,347,875,348,883,279,916,271,901" fill="black"/>-->
+						<!--	<polygon points="302,633,290,607,148,672,245,892,247,885,174,697,239,670,237,650" fill="black"/>-->
+						<!--	<polygon points="231,932,121,719,158,698,190,772,206,877,236,875,245,895,255,907,268,902,272,909" fill="black"/>-->
+						<!--	<polygon points="207,876,192,774,234,873" fill="black"/>-->
+						<!--	<polygon points="174,658,171,641,241,629" fill="black"/>-->
+						<!--	<polygon points="302,629,296,616,321,611,307,617" fill="black"/>-->
+						<!--	<polygon points="520,531,538,763,514,767,549,775,578,542" fill="black"/>-->
+						<!--	<polygon points="499,528,434,519,429,535" fill="black"/>-->
 
-				<map name="map">
-				    <area target="" alt="On the Black Leadership and Other White Myths" title="On the Black Leadership and Other White Myths" href="./on-the-black-leadership" coords="126,427,203,631,343,573,262,371" shape="poly">
-				    <area target="" alt="Call" title="Call" href="./call-ic" coords="803,83,817,220,763,227,778,279,914,278,888,82" shape="poly">
-				    <area target="" alt="Follow the Fires: Insurgency Against Identity" title="Follow the Fires: Insurgency Against Identity" href="./follow-the-fires" coords="574,516,570,476,717,463,723,520,674,528,678,554,653,558,650,520" shape="poly">
-				    <area target="" alt="If We Go, We Go On Fire: On Grief and Social War" title="If We Go, We Go On Fire: On Grief and Social War" href="./if-we-go-we-go-on-fire" coords="599,309,614,468,676,464,689,308" shape="poly">
-				    <area target="" alt="No Selves to Abolish: Afropessimism, Anti-Politics and the End of the World" title="No Selves to Abolish: Afropessimism, Anti-Politics and the End of the World" href="./no-selves-to-abolish" coords="504,69,518,207,538,205,556,213,568,226,571,239,570,256,658,250,636,62" shape="poly">
-				    <area target="" alt="Toward the Queerest Insurrection" title="Toward the Queerest Insurrection" href="./toward-the-queerest-insurrection" coords="655,218,672,221,674,231,758,228,772,280,769,286,659,254" shape="poly">
-				    <area target="" alt="I Don't Bash Back, I Shoot First: On Queer Gangs" title="I Don't Bash Back, I Shoot First: On Queer Gangs" href="./i-dont-bash-back-i-shoot-first" coords="649,572,648,638,667,720,889,662,847,522" shape="poly">
-				    <area target="" alt="The Harvest of Dead Elephants: The False Opposition of Animal Liberation" title="The Harvest of Dead Elephants: The False Opposition of Animal Liberation" href="./harvest-of-dead-elephants" coords="690,300,677,464,716,459,726,521,760,516,795,321,823,321,710,298" shape="poly">
-				    <area target="" alt="I Don't Bash Back, I Shoot First: On Queer Gangs" title="I Don't Bash Back, I Shoot First: On Queer Gangs" href="./i-dont-bash-back-i-shoot-first" coords="549,444,399,440,396,533,426,534,433,516,499,528,513,526,512,514,547,513" shape="poly">
-				    <area target="" alt="Be Gay Do Crime" title="Be Gay Do Crime" href="./be-gay-do-crime" coords="447,301,405,308,388,313,368,312,356,311,354,317,302,324,305,344,354,341,368,340,380,528,394,527,401,440,425,439" shape="poly">
-				    <area target="" alt="Now: Let's Destitute the World" title="Now: Let's Destitute the World" href="./now-ic#toc4" coords="796,323,764,515,889,502,902,543,921,401,934,349" shape="poly">
-				    <area target="" alt="Acrid Black Smoke: Revisiting Blessed is the Flame in Insurrection and Anti-politics" title="Acrid Black Smoke: Revisiting Blessed is the Flame in Insurrection and Anti-politics" href="./acrid-black-smoke" coords="546,3,539,63,591,63,593,29,673,34,677,23" shape="poly">
-				    <area target="" alt="Hacking the Suburbs: David Holmgren in Conversation with Partisan Gardens" title="Hacking the Suburbs: David Holmgren in Conversation with Partisan Gardens" href="./hacking-the-suburbs" coords="333,647,351,889,508,871,483,632" shape="poly">
-				    <area target="" alt="Absolute Sharing Between Friends" title="Absolute Sharing Between Friends" href="./absolute-sharing" coords="534,65,544,15,505,6,491,190,512,193,506,65" shape="poly">
-				    <area target="" alt="Criminal Intimacy" title="Criminal Intimacy" href="./criminal-intimacy" coords="595,30,591,63,636,62,657,220,713,224,725,37,666,36" shape="poly">
-				    <area target="" alt="Criminal Intimacy" title="Criminal Intimacy" href="./criminal-intimacy" coords="601,315,519,310,516,441,549,444,550,514,573,515,567,472,613,466" shape="poly">
-<!--				    <area target="" alt="?segregation?" title="?segregation?" href="./?segregation?" coords="676,223,681,230,760,226,815,218,797,33,726,44,714,227" shape="poly">-->
-				    <area target="" alt="Lies: Letters to L.: Paranoia and Visions" title="Lies: Letters to L.: Paranoia and Visions" href="./lies-letters-to-l" coords="228,381,228,354,367,343,380,537,369,541,369,560,340,560,260,369" shape="poly">
-				    <area target="" alt="Shattering Abolition(TM): Against Reformist Counterinsurgency in the Streets of Oakland" title="Shattering Abolition(TM): Against Reformist Counterinsurgency in the Streets of Oakland" href="./shattering-abolition" coords="449,285,512,293,486,299,481,440,426,440" shape="poly">
-				    <area target="" alt="Butterflies, Polyamory and Ideology:  Letter on Inconsequence" title="Butterflies, Polyamory and Ideology:  Letter on Inconsequence" href="./butterflies-polyamory-and-ideology" coords="626,298,484,296,481,442,512,443,518,307,598,313,606,309,626,308" shape="poly">
-				    <area target="" alt="Open propositions for a strategic madness" title="Open propositions for a strategic madness" href="./open-propositions-for-a-strategic-madness" coords="371,540,518,529,537,766,500,770,483,630,460,633,456,604,372,609" shape="poly">
-<!--				    <area target="" alt="Strange Constellations" title="Strange Constellations" href="./strange-constellations" coords="452,605,303,617,318,859,346,857,331,645,458,633,455,619" shape="poly">-->
-<!--				    <area target="" alt="Cop City FAQ" title="Cop City FAQ" href="./cop-city-faq" coords="651,562,679,554,675,527,889,502,910,577,916,628,947,710,963,769,730,825,690,715,888,662,846,522,651,569" shape="poly">-->
-<!--				    <area target="" alt="SRA Constitutional Carry Guide" title="SRA Constitutional Carry Guide" href="./constitutional-carry" coords="515,515,648,520,643,700,632,708,561,709,577,542,519,530,513,528" shape="poly">-->
-<!--				    <area target="" alt="?read my lips?" title="?read my lips?" href="./?read-my-lips?" coords="303,300,110,315,111,501,152,499,125,426,227,383,226,351,304,346" shape="poly">-->
-<!--				    <area target="" alt="?anarchist temple?" title="?anarchist temple?" href="./?anarchist-temple?" coords="304,636,236,651,277,889,349,874,349,859,319,858" shape="poly">-->
-<!--				    <area target="" alt="?ftp?" title="?ftp?" href="./?ftp?" coords="245,716,195,735,252,905,308,885,276,886" shape="poly">-->
-<!--				    <area target="" alt="?biden?" title="?biden?" href="./?biden?" coords="237,673,174,698,202,763,197,732,245,715" shape="poly">-->
-<!--				    <area target="" alt="?biden?" title="?biden?" href="./?biden?" coords="304,886,347,875,348,883,279,916,271,901" shape="poly">-->
-<!--				    <area target="" alt="?why we must?" title="?why we must?" href="./?why-we-must?" coords="302,633,290,607,148,672,245,892,247,885,174,697,239,670,237,650" shape="poly">-->
-<!--				    <area target="" alt="?red?" title="?red?" href="./?red?" coords="231,932,121,719,158,698,190,772,206,877,236,875,245,895,255,907,268,902,272,909" shape="poly">-->
-<!--				    <area target="" alt="?if?" title="?if?" href="./?if?" coords="207,876,192,774,234,873" shape="poly">-->
-<!--				    <area target="" alt="?if?" title="?if?" href="./?if?" coords="174,658,171,641,241,629" shape="poly">-->
-<!--				    <area target="" alt="?if?" title="?if?" href="./?if?" coords="302,629,296,616,321,611,307,617" shape="poly">-->
-<!--				    <area target="" alt="?blue?" title="?blue?" href="./?blue?" coords="520,531,538,763,514,767,549,775,578,542" shape="poly">-->
-<!--				    <area target="" alt="?blue?" title="?blue?" href="./?blue?" coords="499,528,434,519,429,535" shape="poly">-->
-				</map>
+					</mask>
+				</defs>
+				<image xlink:href="evidence.jpg" x="0" y="0" width="100%" height="100%"/>
+				<rect width="100%" height="100%" mask="url(#cutout)" fill="transparent"/>
+				<a href="./on-the-black-leadership"><polygon points="126,427,203,631,343,573,262,371" fill="transparent">>
+					<title>On the Black Leadership and Other White Myths</title>
+				</polygon></a>
+				<a href="./call-ic"><polygon points="803,83,817,220,763,227,778,279,914,278,888,82" fill="transparent">
+					<title>Call</title>
+				</polygon></a>
+				<a href="./follow-the-fires"><polygon points="574,516,570,476,717,463,723,520,674,528,678,554,653,558,650,520" fill="transparent">
+					<title>Follow the Fires: Insurgency Against Identity</title>
+				</polygon></a>
+				<a href="./if-we-go-we-go-on-fire"><polygon points="599,309,614,468,676,464,689,308" fill="transparent">
+					<title>If We Go, We Go On Fire: On Grief and Social War</title>
+				</polygon></a>
+				<a href="./no-selves-to-abolish"><polygon points="504,69,518,207,538,205,556,213,568,226,571,239,570,256,658,250,636,62" fill="transparent">
+					<title>No Selves to Abolish: Afropessimism, Anti-Politics and the End of the World</title>
+				</polygon></a>
+				<a href="./toward-the-queerest-insurrection"><polygon points="655,218,672,221,674,231,758,228,772,280,769,286,659,254" fill="transparent">
+					<title>Toward the Queerest Insurrection</title>
+				</polygon></a>
+				<a href="./i-dont-bash-back-i-shoot-first"><polygon points="649,572,648,638,667,720,889,662,847,522" fill="transparent">
+					<title>I Don't Bash Back, I Shoot First: On Queer Gangs</title>
+				</polygon></a>
+				<a href="./harvest-of-dead-elephants"><polygon points="690,300,677,464,716,459,726,521,760,516,795,321,823,321,710,298" fill="transparent">
+					<title>The Harvest of Dead Elephants: The False Opposition of Animal Liberation</title>
+				</polygon></a>
+				<a href="./i-dont-bash-back-i-shoot-first"><polygon points="549,444,399,440,396,533,426,534,433,516,499,528,513,526,512,514,547,513" fill="transparent">
+					<title>I Don't Bash Back, I Shoot First: On Queer Gangs</title>
+				</polygon></a>
+				<a href="./be-gay-do-crime"><polygon points="447,301,405,308,388,313,368,312,356,311,354,317,302,324,305,344,354,341,368,340,380,528,394,527,401,440,425,439" fill="transparent">
+					<title>Be Gay Do Crime</title>
+				</polygon></a>
+				<a href="./now-ic#toc4"><polygon points="796,323,764,515,889,502,902,543,921,401,934,349" fill="transparent">
+					<title>Now: Let's Destitute the World</title>
+				</polygon></a>
+				<a href="./acrid-black-smoke"><polygon points="546,3,539,63,591,63,593,29,673,34,677,23" fill="transparent">
+					<title>Acrid Black Smoke: Revisiting Blessed is the Flame in Insurrection and Anti-politics</title>
+				</polygon></a>
+				<a href="./hacking-the-suburbs"><polygon points="333,647,351,889,508,871,483,632" fill="transparent">
+					<title>Hacking the Suburbs: David Holmgren in Conversation with Partisan Gardens</title>
+				</polygon></a>
+				<a href="./absolute-sharing"><polygon points="534,65,544,15,505,6,491,190,512,193,506,65" fill="transparent">
+					<title>Absolute Sharing Between Friends</title>
+				</polygon></a>
+				<a href="./criminal-intimacy"><polygon points="595,30,591,63,636,62,657,220,713,224,725,37,666,36" fill="transparent">
+					<title>Criminal Intimacy</title>
+				</polygon></a>
+				<a href="./criminal-intimacy"><polygon points="601,315,519,310,516,441,549,444,550,514,573,515,567,472,613,466" fill="transparent">
+					<title>Criminal Intimacy</title>
+				</polygon></a>
+				<!--	<a href="./?segregation?"><polygon points="676,223,681,230,760,226,815,218,797,33,726,44,714,227" fill="transparent">
+					<title>?segregation?</title>
+				</polygon></a>-->
+				<a href="./lies-letters-to-l"><polygon points="228,381,228,354,367,343,380,537,369,541,369,560,340,560,260,369" fill="transparent">
+					<title>Lies: Letters to L.: Paranoia and Visions</title>
+				</polygon></a>
+				<a href="./shattering-abolition"><polygon points="449,285,512,293,486,299,481,440,426,440" fill="transparent">
+					<title>Shattering Abolition(TM): Against Reformist Counterinsurgency in the Streets of Oakland</title>
+				</polygon></a>
+				<a href="./butterflies-polyamory-and-ideology"><polygon points="626,298,484,296,481,442,512,443,518,307,598,313,606,309,626,308" fill="transparent">
+					<title>Butterflies, Polyamory and Ideology:  Letter on Inconsequence</title>
+				</polygon></a>
+				<a href="./open-propositions-for-a-strategic-madness"><polygon points="371,540,518,529,537,766,500,770,483,630,460,633,456,604,372,609" fill="transparent">
+					<title>Open propositions for a strategic madness</title>
+				</polygon></a>
+				<!--	<a href="./strange-constellations"><polygon points="452,605,303,617,318,859,346,857,331,645,458,633,455,619" fill="transparent">
+					<title>Strange Constellations</title>
+				</polygon></a>-->
+				<!--	<a href="./cop-city-faq"><polygon points="651,562,679,554,675,527,889,502,910,577,916,628,947,710,963,769,730,825,690,715,888,662,846,522,651,569" fill="transparent">
+					<title>Cop City FAQ</title>
+				</polygon></a>-->
+				<!--	<a href="./constitutional-carry"><polygon points="515,515,648,520,643,700,632,708,561,709,577,542,519,530,513,528" fill="transparent">
+					<title>SRA Constitutional Carry Guide</title>
+				</polygon></a>-->
+				<!--	<a href="./?read-my-lips?"><polygon points="303,300,110,315,111,501,152,499,125,426,227,383,226,351,304,346" fill="transparent">
+					<title>?read my lips?</title>
+				</polygon></a>-->
+				<!--	<a href="./?anarchist-temple?"><polygon points="304,636,236,651,277,889,349,874,349,859,319,858" fill="transparent">
+					<title>?anarchist temple?</title>
+				</polygon></a>-->
+				<!--	<a href="./?ftp?"><polygon points="245,716,195,735,252,905,308,885,276,886" fill="transparent">
+					<title>?ftp?</title>
+				</polygon></a>-->
+				<!--	<a href="./?biden?"><polygon points="237,673,174,698,202,763,197,732,245,715" fill="transparent">
+					<title>?biden?</title>
+				</polygon></a>-->
+				<!--	<a href="./?biden?"><polygon points="304,886,347,875,348,883,279,916,271,901" fill="transparent">
+					<title>?biden?</title>
+				</polygon></a>-->
+				<!--	<a href="./?why-we-must?"><polygon points="302,633,290,607,148,672,245,892,247,885,174,697,239,670,237,650" fill="transparent">
+					<title>?why we must?</title>
+				</polygon></a>-->
+				<!--	<a href="./?red?"><polygon points="231,932,121,719,158,698,190,772,206,877,236,875,245,895,255,907,268,902,272,909" fill="transparent">
+					<title>?red?</title>
+				</polygon></a>-->
+				<!--	<a href="./?if?"><polygon points="207,876,192,774,234,873" fill="transparent">
+					<title>?if?</title>
+				</polygon></a>-->
+				<!--	<a href="./?if?"><polygon points="174,658,171,641,241,629" fill="transparent">
+					<title>?if?</title>
+				</polygon></a>-->
+				<!--	<a href="./?if?"><polygon points="302,629,296,616,321,611,307,617" fill="transparent">
+					<title>?if?</title>
+				</polygon></a>-->
+				<!--	<a href="./?blue?"><polygon points="520,531,538,763,514,767,549,775,578,542" fill="transparent">
+					<title>?blue?</title>
+				</polygon></a>-->
+				<!--	<a href="./?blue?"><polygon points="499,528,434,519,429,535" fill="transparent">
+					<title>?blue?</title>
+				</polygon></a>-->
+			</svg>
+			<!-- ...pre-CSS hide -->
+
+			<img id="classic-map" src="evidence.jpg" alt="A bunch of zines, stickers, and patches spread out like contraband. There's a yellow evidence number visible: 41." usemap="#map" width="1000" height="1000">
+			<map name="map">
+				<area target="" alt="On the Black Leadership and Other White Myths" title="On the Black Leadership and Other White Myths" href="./on-the-black-leadership" coords="126,427,203,631,343,573,262,371" shape="poly">
+				<area target="" alt="Call" title="Call" href="./call-ic" coords="803,83,817,220,763,227,778,279,914,278,888,82" shape="poly">
+				<area target="" alt="Follow the Fires: Insurgency Against Identity" title="Follow the Fires: Insurgency Against Identity" href="./follow-the-fires" coords="574,516,570,476,717,463,723,520,674,528,678,554,653,558,650,520" shape="poly">
+				<area target="" alt="If We Go, We Go On Fire: On Grief and Social War" title="If We Go, We Go On Fire: On Grief and Social War" href="./if-we-go-we-go-on-fire" coords="599,309,614,468,676,464,689,308" shape="poly">
+				<area target="" alt="No Selves to Abolish: Afropessimism, Anti-Politics and the End of the World" title="No Selves to Abolish: Afropessimism, Anti-Politics and the End of the World" href="./no-selves-to-abolish" coords="504,69,518,207,538,205,556,213,568,226,571,239,570,256,658,250,636,62" shape="poly">
+				<area target="" alt="Toward the Queerest Insurrection" title="Toward the Queerest Insurrection" href="./toward-the-queerest-insurrection" coords="655,218,672,221,674,231,758,228,772,280,769,286,659,254" shape="poly">
+				<area target="" alt="I Don't Bash Back, I Shoot First: On Queer Gangs" title="I Don't Bash Back, I Shoot First: On Queer Gangs" href="./i-dont-bash-back-i-shoot-first" coords="649,572,648,638,667,720,889,662,847,522" shape="poly">
+				<area target="" alt="The Harvest of Dead Elephants: The False Opposition of Animal Liberation" title="The Harvest of Dead Elephants: The False Opposition of Animal Liberation" href="./harvest-of-dead-elephants" coords="690,300,677,464,716,459,726,521,760,516,795,321,823,321,710,298" shape="poly">
+				<area target="" alt="I Don't Bash Back, I Shoot First: On Queer Gangs" title="I Don't Bash Back, I Shoot First: On Queer Gangs" href="./i-dont-bash-back-i-shoot-first" coords="549,444,399,440,396,533,426,534,433,516,499,528,513,526,512,514,547,513" shape="poly">
+				<area target="" alt="Be Gay Do Crime" title="Be Gay Do Crime" href="./be-gay-do-crime" coords="447,301,405,308,388,313,368,312,356,311,354,317,302,324,305,344,354,341,368,340,380,528,394,527,401,440,425,439" shape="poly">
+				<area target="" alt="Now: Let's Destitute the World" title="Now: Let's Destitute the World" href="./now-ic#toc4" coords="796,323,764,515,889,502,902,543,921,401,934,349" shape="poly">
+				<area target="" alt="Acrid Black Smoke: Revisiting Blessed is the Flame in Insurrection and Anti-politics" title="Acrid Black Smoke: Revisiting Blessed is the Flame in Insurrection and Anti-politics" href="./acrid-black-smoke" coords="546,3,539,63,591,63,593,29,673,34,677,23" shape="poly">
+				<area target="" alt="Hacking the Suburbs: David Holmgren in Conversation with Partisan Gardens" title="Hacking the Suburbs: David Holmgren in Conversation with Partisan Gardens" href="./hacking-the-suburbs" coords="333,647,351,889,508,871,483,632" shape="poly">
+				<area target="" alt="Absolute Sharing Between Friends" title="Absolute Sharing Between Friends" href="./absolute-sharing" coords="534,65,544,15,505,6,491,190,512,193,506,65" shape="poly">
+				<area target="" alt="Criminal Intimacy" title="Criminal Intimacy" href="./criminal-intimacy" coords="595,30,591,63,636,62,657,220,713,224,725,37,666,36" shape="poly">
+				<area target="" alt="Criminal Intimacy" title="Criminal Intimacy" href="./criminal-intimacy" coords="601,315,519,310,516,441,549,444,550,514,573,515,567,472,613,466" shape="poly">
+<!--					<area target="" alt="?segregation?" title="?segregation?" href="./?segregation?" coords="676,223,681,230,760,226,815,218,797,33,726,44,714,227" shape="poly">-->
+				<area target="" alt="Lies: Letters to L.: Paranoia and Visions" title="Lies: Letters to L.: Paranoia and Visions" href="./lies-letters-to-l" coords="228,381,228,354,367,343,380,537,369,541,369,560,340,560,260,369" shape="poly">
+				<area target="" alt="Shattering Abolition(TM): Against Reformist Counterinsurgency in the Streets of Oakland" title="Shattering Abolition(TM): Against Reformist Counterinsurgency in the Streets of Oakland" href="./shattering-abolition" coords="449,285,512,293,486,299,481,440,426,440" shape="poly">
+				<area target="" alt="Butterflies, Polyamory and Ideology:  Letter on Inconsequence" title="Butterflies, Polyamory and Ideology:  Letter on Inconsequence" href="./butterflies-polyamory-and-ideology" coords="626,298,484,296,481,442,512,443,518,307,598,313,606,309,626,308" shape="poly">
+				<area target="" alt="Open propositions for a strategic madness" title="Open propositions for a strategic madness" href="./open-propositions-for-a-strategic-madness" coords="371,540,518,529,537,766,500,770,483,630,460,633,456,604,372,609" shape="poly">
+<!--					<area target="" alt="Strange Constellations" title="Strange Constellations" href="./strange-constellations" coords="452,605,303,617,318,859,346,857,331,645,458,633,455,619" shape="poly">-->
+<!--					<area target="" alt="Cop City FAQ" title="Cop City FAQ" href="./cop-city-faq" coords="651,562,679,554,675,527,889,502,910,577,916,628,947,710,963,769,730,825,690,715,888,662,846,522,651,569" shape="poly">-->
+<!--					<area target="" alt="SRA Constitutional Carry Guide" title="SRA Constitutional Carry Guide" href="./constitutional-carry" coords="515,515,648,520,643,700,632,708,561,709,577,542,519,530,513,528" shape="poly">-->
+<!--					<area target="" alt="?read my lips?" title="?read my lips?" href="./?read-my-lips?" coords="303,300,110,315,111,501,152,499,125,426,227,383,226,351,304,346" shape="poly">-->
+<!--					<area target="" alt="?anarchist temple?" title="?anarchist temple?" href="./?anarchist-temple?" coords="304,636,236,651,277,889,349,874,349,859,319,858" shape="poly">-->
+<!--					<area target="" alt="?ftp?" title="?ftp?" href="./?ftp?" coords="245,716,195,735,252,905,308,885,276,886" shape="poly">-->
+<!--					<area target="" alt="?biden?" title="?biden?" href="./?biden?" coords="237,673,174,698,202,763,197,732,245,715" shape="poly">-->
+<!--					<area target="" alt="?biden?" title="?biden?" href="./?biden?" coords="304,886,347,875,348,883,279,916,271,901" shape="poly">-->
+<!--					<area target="" alt="?why we must?" title="?why we must?" href="./?why-we-must?" coords="302,633,290,607,148,672,245,892,247,885,174,697,239,670,237,650" shape="poly">-->
+<!--					<area target="" alt="?red?" title="?red?" href="./?red?" coords="231,932,121,719,158,698,190,772,206,877,236,875,245,895,255,907,268,902,272,909" shape="poly">-->
+<!--					<area target="" alt="?if?" title="?if?" href="./?if?" coords="207,876,192,774,234,873" shape="poly">-->
+<!--					<area target="" alt="?if?" title="?if?" href="./?if?" coords="174,658,171,641,241,629" shape="poly">-->
+<!--					<area target="" alt="?if?" title="?if?" href="./?if?" coords="302,629,296,616,321,611,307,617" shape="poly">-->
+<!--					<area target="" alt="?blue?" title="?blue?" href="./?blue?" coords="520,531,538,763,514,767,549,775,578,542" shape="poly">-->
+<!--					<area target="" alt="?blue?" title="?blue?" href="./?blue?" coords="499,528,434,519,429,535" shape="poly">-->
+			</map>
 
 			<br>
 			<p><strong>Download all: <a rel="noopener noreferrer" referrerpolicy="no-referrer" href="https://git.gay/pnppl/pnppl.cc/archive/main:site/prairieland.zip"><span class="link-text">git.gay</span></a> &#183; <a rel="noopener noreferrer" referrerpolicy="no-referrer" href="https://codeberg.org/pnppl/pnppl.cc/archive/main:site/prairieland.zip"><span class="link-text">Codeberg</span></a> &#183; <a rel="noopener noreferrer" referrerpolicy="no-referrer" href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fpnppl%2Fpnppl.cc%2Ftree%2Fmain%2Fsite%2Fprairieland%2F"><span class="link-text">Github</span></a></strong></p>
