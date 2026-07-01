@@ -82,6 +82,7 @@
 				- another tri fold pamphlet
 				- https://static.wikitide.net/masrawiki/2/25/SRA_IFAK_Pamphlet.pdf
 		- both versions of the crimethinc gender poster
+			- done and i made HTML versions that look really good :3
 		- motherlode
 			- be gay do crime
 				- done
