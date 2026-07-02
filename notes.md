@@ -120,8 +120,11 @@
 				- https://azinelibrary.org/zines/Harvest-of-Dead-Elephants-The-The-False-Opposition-of-Animal-Liberation
 				- https://theanarchistlibrary.org/library/various-authors-a-murder-of-crows#toc53
 			- cop city FAQ
+				- done
+					- removed first and last page for imposing
+					- reprinted to letter: legible but should be cropped but couldn't figure out how to do it
+						- anyway it's unlikely anyone will want to print this in Present Day
 				- https://defendtheatlantaforest.org/wp-content/uploads/2022/07/dtf-media-kit.pdf
-				- don't think there's an imposed version. need html
 			- follow the fires
 				- done. noticed TAL has it *after* redoing the html my way...
 				- good to go with de-imposer
