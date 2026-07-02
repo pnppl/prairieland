@@ -331,12 +331,14 @@
 - is "visualize industrial collapse" a zine i can't find or just a bumper sticker? iono shit about anticiv
 	- funny how fascism makes me perfectly happy to support them, baedan wank, etc, lol
 	- it is a STICKER https://nitter.poast.org/EmmaGoldmanBCTX/status/1845548423027491301#m
-- mosaic compat
+- retro compat
 	- some zines crash mosaic. usually this is due to missing resources. find and strip them
 		- actually i think it's just the pngs - see if i missed any that could be gif or jpg
 	- a bunch of TAL zines have an XML declaration on top that firefox says is invalid and gets printed in mosaic
 	- ! the de-re-emdash-ifier isn't working on links, so the link to "safety" has a broken character in mosaic
-	- "de-arrest" figcaptions need a <br> or something, they show inline with the image
+	- my pre-CSS hide doesn't work because i have parts of the maps commented out and HTML comments can't nest, so ijust removed it for now
+		- doesn't seem to actually be necessary for mosaic which skips the svg anyway
+		- netscape 4.8 shows a broken image. but it supports CSS (kinda) so i don't think the hide would work. but also the normal CSS hide fails. supporting this browser is a lost cause
 - give it its own pagefind instance
 - banner image? some of the "evidence photos" presenting zines like a crime scene would be good
 - automate updating the shitty TAL print styles
