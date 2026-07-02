@@ -102,8 +102,8 @@
 				- https://illwilleditions.noblogs.org/post/2015/09/19/catalogue/
 					- print version link is broken
 			- shattering abolition (from Seeds of)
+				- done
 				- https://haters.noblogs.org/zines/
-				- need html
 			- acrid black smoke
 				- add images to html manually
 				- https://phlanticap.noblogs.org/new-zine-acrid-black-smoke/
@@ -131,8 +131,8 @@
 				- https://web.archive.org/web/20240705045730/https://livingandfighting.net/Follow-the-Fires
 				- https://zinelibrary.org/follow-the-fires-insurgency-against-identity.html
 			- old timey map?
+				- done
 				- think it's strange constellations, it is in other pics https://friendship-as-a-form-of-life.tumblr.com/download
-				- need html
 				- has spanish version. shit it didn't even occur to me i could make this multi language. each one is a lot of extra work if i have to make the html and i won't spot my errors
 			- absolute sharing between friends
 				- done
