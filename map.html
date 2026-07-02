@@ -13,12 +13,12 @@
 		<link rel="alternate" href="/+/feed.rss" title="pnppl.cc RSS" type="application/rss+xml">
 		<meta property="og:site_name" content="pnppl.cc">
 		<meta property="og:title" content="Prairieland Zines">
-		<meta property="og:description" content="Prairieland Zines evidence map">
+		<meta property="og:description" content="Prairieland Zines - interactive crime scene photo">
 		<meta property="og:image" content="https://pnppl.cc/public/logo.gif">
 		<meta property="og:url" content="https://pnppl.cc/prairieland/">
 		<meta property="og:type" content="website">
-		<meta name="description" content="Prairieland Zines evidence map">
-		<title>Prairieland Zines - evidence map | pnppl.cc</title>
+		<meta name="description" content="Prairieland Zines - interactive crime scene photo">
+		<title>Prairieland Zines - Crime Scene | pnppl.cc</title>
 		<style><!--
 		html,
 		body {
@@ -46,7 +46,7 @@
 				display: block;
 			}
 		}
-		#svg-map rect,
+		#svg-map #bg,
 		#svg-map polygon {
 			fill: black;
 			opacity: 0.2;
@@ -100,7 +100,7 @@
 <div class="container is-max-desktop" role="main" id="main">
 	<div class="title">
 		<center>
-				<h1>Prairieland Zines - evidence map</h1>
+				<h1>Prairieland Zines - Crime Scene</h1>
 		</center>
 	</div>
 	<div class="content">
@@ -153,7 +153,7 @@
 					</mask>
 				</defs>
 				<image xlink:href="evidence.jpg" x="0" y="0" width="100%" height="100%"/>
-				<rect width="100%" height="100%" mask="url(#cutout)" fill="transparent"/>
+				<rect id="bg" width="100%" height="100%" mask="url(#cutout)" fill="transparent"/>
 				<a href="./on-the-black-leadership"><polygon points="126,427,203,631,343,573,262,371" fill="transparent">>
 					<title>On the Black Leadership and Other White Myths</title>
 				</polygon></a>
