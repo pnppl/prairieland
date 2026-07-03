@@ -39,7 +39,8 @@
 	- guardian photos
 		- collage
 			- to them we're all outside agitators: encampments & escalation
-				- different cover https://wolpalestine.com/encampments/
+				- done
+				- https://wolpalestine.com/encampments/
 				- can't find pdf
 			- the do-it-yourself occupation guide: 2024 edition
 				- done
@@ -339,6 +340,7 @@
 	- my pre-CSS hide doesn't work because i have parts of the maps commented out and HTML comments can't nest, so ijust removed it for now
 		- doesn't seem to actually be necessary for mosaic which skips the svg anyway
 		- netscape 4.8 shows a broken image. but it supports CSS (kinda) so i don't think the hide would work. but also the normal CSS hide fails. supporting this browser is a lost cause
+	- TAL html isn't centered in netscape 7
 - give it its own pagefind instance
 - banner image? some of the "evidence photos" presenting zines like a crime scene would be good
 - automate updating the shitty TAL print styles
