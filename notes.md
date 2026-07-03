@@ -42,10 +42,10 @@
 				- different cover https://wolpalestine.com/encampments/
 				- can't find pdf
 			- the do-it-yourself occupation guide: 2024 edition
+				- done
 				- seems canonical https://archive.org/details/diy-occupation-guide-2024/
 				- https://www.indybay.org/newsitems/2024/04/29/18865522.php
 				- https://web.archive.org/web/20240429101818/https://escalatenetwork.org/post/749031816489484288/the-do-it-yourself-occupation-guide-2024-edition
-				- can't find html
 		- tabling
 			- faggots & their friends
 			- what is gender nihilism? (baedan)
