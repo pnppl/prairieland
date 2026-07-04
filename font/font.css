@@ -1,0 +1,23 @@
+@media screen and (max-width: 767px) and (pointer: coarse) {
+	@font-face {
+		font-family: "Victor Mono Medium";
+		font-style: normal;
+		/* single-storey 'a', slashed zero, slashed 7 */
+		font-feature-settings: "ss01", "ss03", "ss06";
+		font-display: swap;
+		src:
+		local("Victor Mono Medium"),
+		local("VictorMono-Medium"),
+		url("../font/VictorMono-Medium.woff2") format("woff2");
+	}
+	@font-face {
+	font-family: "Victor Mono Medium";
+	font-style: italic;
+	font-feature-settings: "ss01", "ss03", "ss06";
+	font-display: swap;
+	src:
+		local("Victor Mono Medium Italic"),
+		local("VictorMono-MediumItalic"),
+		url("../font/VictorMono-MediumItalic.woff2") format("woff2");
+	}
+}
