@@ -121,7 +121,7 @@ Since it draws its affective coordinates not from Black suffering (analogy) but 
 
 Despite this paradigmatic distance, the past year has witnessed moments that defy this schema, moments in which, under the aleatory impetus of an *event*, the social hostility configuring each line leads them to converge. This is what happened during the seventeen-day revolt in the San Francisco Bay Area following the Darren Wilson non-guilty verdict in December of 2014, in which diverse groups of people were led to collectively block freeways, rail lines, roads and ports, to frontally attack the police, as well as to paralyze the quotidian functioning of the metropolis through the widespread looting and destruction of commercial spaces. Such intensely conflictual ruptures enact a kind of larval, potential, and fugitive convergence between paradigmatic lines, yet whose miserable separation must resume as soon as order is restored on the ground, and the situation becomes once again governable.
 
-------------------------------------------------------------------------
+------------------------------------
 
 I will close with some tentative theses:
 
@@ -188,6 +188,6 @@ This article benefitted from the suggestions and critiques of afropessimists fro
 
 [^23]: Taking up Wilderson and Sexton's insights regarding the absence of black subjectivity or 'standpoint', Fred Moten concedes that if the 'nothingness' of blackness consists in its '(negative) relation to the substance of subjectivity-as-nonblackness (enacted in antiblackness)', then there is indeed no emancipation conceivable in the form of an affirmative *black* subjectivity. However, for Moten this is an insight that remains to be fulfilled: what is needful is not the recovery of, but practical and theoretical 'refusal of standpoint', refusal that clears the way for the elaboration of an 'existence without standing', a thinking 'outside the desire for a standpoint'. Blacks, he argues, 'must free [themselves] from ontological expectation', cease being entranced by the denial of their own subjectivity, and refuse the allure of Blackness as a 'property that belongs to Blacks'. What is necessary is to 'find the self, and kill it', by which he means 'the self that [blacks] cannot have and cannot be, but against which [they] are posed as the occupant of no position'. It is in abandoning the desire for legible subjectivity that we open the possibility of elaboration of an undercommons, whose modern day 'maroons' wage a 'war of apposition' grounded on an ethics of 'dispossessive intimacy'. See Fred Moten, 'Blackness and Nothingness (Mysticism in the Flesh)', in *South Atlantic Quarterly,* 112:4, Fall 2013, and Fred Moten and Stefano Harney, *The Undercommons: Fugitive Planning and Black Study* (New York: Autonomedia, 2013). Moten's work will form the basis of a forthcoming follow-up article.
 
-------------------------------------------------------------------------
+------------------------------------
 
 http://www.metamute.org/editorial/articles/no-selves-to-abolish-afropessimism-anti-politics-and-end-world

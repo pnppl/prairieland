@@ -140,7 +140,7 @@ Anti-social crimes such as mugging are overwhelmingly a product of the intensifi
 
 It's also hard to see how they would stand aloof from faction fights within the "community". The anarchist solution seems to be that sheer ideological commitment alone is enough -- everybody would be so anti-racist, anti-sexist etc. (see the article *An Unparalleled Evil?* in issue 11 of *Taking Liberties*) that they wouldn't dream of doing anything anti-social in the name of fighting anti-social crime. But ideological commitment doesn't put food on the table. Organised theft from the bourgeoisie certainly does, and might well draw in those otherwise tempted to steal off their own kind. Historically, the only times that "crime-ridden" neighbourhoods have become safe places to walk about in is during uprisings -- in the townships of South Africa this is a well-known, and even documented, phenomenon. The only kind of "community" worth defending is a community of struggle against capital, and it is only through the development of such a community that anti-social acts within the working class can begin to be truly suppressed.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Retrieved on 2025/10/22 from <www.wildcat.international/againstp.html>
 

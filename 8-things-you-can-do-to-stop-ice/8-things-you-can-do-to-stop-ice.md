@@ -39,7 +39,7 @@ If we fail to stand in solidarity with those targeted by Immigration and Customs
 
 Do your part to melt the ICE.
 
-------------------------------------------------------------------------
+------------------------------------
 
 
 # Eight Things You Can Do to Stop ICE
@@ -141,7 +141,7 @@ Every time ICE wants to attack your community, they should know that their activ
   [Think There's Nothing You Can Do to Stop ICE? Think Again.]: https://www.thenation.com/article/activism/chicago-ice-raids-resistance/
   [Willem van Spronsen's Statement about Why He Took Action against ICE]: https://crimethinc.com/2019/07/14/on-willem-van-spronsens-action-against-the-northwest-detention-center-in-tacoma-including-the-full-text-of-his-final-statement
 
-------------------------------------------------------------------------
+------------------------------------
 
 
 # Know Your Rights:
@@ -158,7 +158,7 @@ You have constitutional rights!
 
 **I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution. I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door. I do not give you permission to search any of my belongings based on my 4th Amendment rights. I choose to exercise my constitutional rights.**
 
-------------------------------------------------------------------------
+------------------------------------
 
 ICE agents often carry administrative rather than judicial warrants. They would like you to think that these are the same, but they are not. If the agent does not have a judicial warrant with all the correct information for the specific person they are looking to detain, they do not have authority to enter private areas without consent, including private areas at a workplace. Talk with your coworkers so that everyone understands which areas are public and private; put up signs and keep doors closed. Create a policy on how to respond if ICE comes to your place of work. You can learn more about how to deal with workplace raids [here][9].
 

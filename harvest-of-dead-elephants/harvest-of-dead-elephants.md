@@ -256,7 +256,7 @@ It is not only the animals who depend on us to set them free from this world. It
 
 [^18]: Someone else once wrote this very fine point. Sorry I cannot credit them because I do not remember who said it. Still, it is an important point: practice is strongest when informed by the dynamism of critical ideas. Likewise, ideas are only as strong as their practical application. Otherwise, theory becomes merely another hollow intellectual pursuit.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Retrieved on May 17, 2009 from [www.geocities.com] and July 17^(th), 2009 from [zinelibrary.info]
 

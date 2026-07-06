@@ -362,7 +362,7 @@ Facing the dangerous zeal of having a federation for its own sake, and the conti
 
 [^15]: (Trans) The Spanish word is coordinadora, literally "coordinator," but in this case not in the sense of a person who coordinates - rather, a semi-formal gathering space for diverse groups to share information and aiding in the making of coordinated or common, but not necessarily unified, decisions.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Retrieved on July 1st, 2015 from http://anarchistnews.org/content/another-critique-insurrectionalism
 

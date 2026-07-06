@@ -1,3 +1,9 @@
+[text (md)] · PDF: [screen] · [print]
+
+  [text (md)]: we-dont-need-safety.md
+  [screen]: we-dont-need-safety.pdf
+  [print]: we-dont-need-safety_print-letter.pdf
+
 
 # We Don't Need "Safety" - We Need to Escalate!
 
@@ -56,4 +62,4 @@ AGAINST THE POLICE AROUND THE GLOBE
 FOR THE LIBERATION OF THE OPPRESSED
 AND THE END TO IMPERIALISM ONCE AND FOR ALL!
 
-\- Fire Ant Movement Defense
+--- Fire Ant Movement Defense

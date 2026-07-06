@@ -1,3 +1,7 @@
+[text (md)]
+
+  [text (md)]: open-propositions-for-a-strategic-madness.md
+
 
 # Open propositions for a strategic madness Sasha Durakov Warren · May 23, 2021
 

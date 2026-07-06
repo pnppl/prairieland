@@ -64,7 +64,7 @@ If you want, I’d really like to build the party with you, well, if you’re fr
 
 ## And the war has only just begun. The Imaginary Party
 
-[text (md)] · [][1][text (md)] · PDF
+[text (md)] · [PDF]
 
   [text (md)]: absolute-sharing.md
-  [1]: absolute-sharing_print-tabloid.pdf
+  [PDF]: absolute-sharing_print-tabloid.pdf

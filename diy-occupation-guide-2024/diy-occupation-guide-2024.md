@@ -185,7 +185,7 @@ The defense of the space cannot be reduced to any one particular factor. The suc
 
 *Symbolic.* The significance of the occupation can extend far beyond its immediate circumstances.
 
-------------------------------------------------------------------------
+------------------------------------
 
 In order to further develop and coordinate our movement on the streets, we could begin compiling intelligence on police maneuvers and tactics against crowds. What are basic formations the police use against large crowds? What arsenal is at the police's disposal and how can we prepare to defend ourselves against police offensives? What codes and signals do they use so as to coordinate their actions against us? How can we coordinate ourselves in relation to the cops' maneuvers and attacks? When the cops either prevent us from taking a space or kick us out, how should we respond?
 
@@ -308,7 +308,7 @@ It is a standard trick of politicians --- radical or otherwise --- to describe a
 
 Occupations always require a strategy, which is local, particular and situational as opposed to the abstraction of politics or ideology. To distance ourselves from those who wish for occupations to be part of some political program, we will not articulate or suggest any specific ways forward. Instead, we will end with a series of questions that address what we find to be common tensions in the discussion of occupations to encourage the development of a localized strategy.
 
-------------------------------------------------------------------------
+------------------------------------
 
 The occupation generates a world that is in stark contrast to our dayto-day lives of work, debt, and isolation. Yet, when an occupation comes to an end, these two worlds become separated from one another once again, as we return to the miseries of everyday life. Rather than swinging between moments of struggle and our daily grind, how do we create a life and a struggle for ourselves that can be in constant play with each other?
 
@@ -384,7 +384,7 @@ Use the U-shaped end of a crowbar to remove the cylinder from a deadbolt. Use th
 
 *Do not pry towards your face. Use the weight of your body instead of the strength of your arms.*
 
-------------------------------------------------------------------------
+------------------------------------
 
 If these less-destructive methods don't work, more aggressive options are abundant. Use a crowbar to open a window. Cheap Milgard latches and latches on older aluminum windows often break in place, keeping entry discreet. Older latches screwed into wood frames, double latched windows, or outswing casement windows that open by turning a handle are harder to break --- often, the glass will be broken in the attempt.
 

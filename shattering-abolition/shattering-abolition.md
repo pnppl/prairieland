@@ -134,7 +134,7 @@ There are a few core myths about the Justice for Tyre Nichols march in Oakland, 
 
 # *RIP Tyre Nichols!*
 
-------------------------------------------------------------------------
+------------------------------------
 
 1.  ^ See: Incite!, *The Revolution Will Not Be Funded*; Robert Allen, *Black Awakening in Capitalist America*
 2.  ^ See: ["Unfinished Acts"] blog; Raider Nation Collective, ["Raider Nation, Vol. 1: From the January Rebellions to Lovelle Mixon and Beyond"] (2009); see esp. Bring the Ruckus, "Do the Right Thing: New Start for Abolitionism in Oakland"

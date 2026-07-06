@@ -1,3 +1,9 @@
+[text (md)] · PDF: [screen] · [print]
+
+  [text (md)]: to-them-we-are-all-outside-agitators.md
+  [screen]: to-them-we-are-all-outside-agitators.pdf
+  [print]: to-them-we-are-all-outside-agitators_print-letter.pdf
+
 
 # To Them, We Are All Outside Agitators: Encampments & Escalation
 

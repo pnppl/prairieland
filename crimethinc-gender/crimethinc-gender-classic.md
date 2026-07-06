@@ -14,7 +14,7 @@
 
 Adapted from a poem by Nancy R. Smith. **CrimethInc. Gender Subversion Kit #69-B.**
 
-------------------------------------------------------------------------
+------------------------------------
 
 ![Two people holding spoons around a mixing bowl. The apparent girl is speaking while the apparent boy smiles and sifts flour into the bowl.]
 

@@ -137,6 +137,6 @@ Front cover: Left: Clandestine Photograph of Treblinka during the uprising take 
 
 [^4]: Orthogonal: Perpendicular; a space independent of another
 
-------------------------------------------------------------------------
+------------------------------------
 
 Retrieved on May 14, 2021 from https://www.udrop.com/5rWw/Bless_final_reading.pdf

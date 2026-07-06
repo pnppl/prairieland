@@ -26,11 +26,11 @@ NO CONCLUSIONS
 
 **BE GAY DO CRIME**
 
-------------------------------------------------------------------------
+------------------------------------
 
 The following essay was anonymously circulated amidst queer/anarchist circles in the Pacific Northwest. It is reproduced here in its entirety. Its initial circulation sparked much controversy among its readers. Here's hoping for more!
 
-------------------------------------------------------------------------
+------------------------------------
 
 First, let's clear a few things up: Bash Back! is dead--old history. We're all still fucking its corpse, totally disinterested while the filthy body falls apart, starting to smell. Whatever. Here's the real point: if at the moment of BB!'s disappearance this queer virus fails to spread, if we aren't proliferating terribly, then we're kidding ourselves, calling what we experienced a death (despite our nihilist woo-woo-insurrecto fantasy's)--if this is our case, then what we chose was to survive things as they are, making our peace~ even with our noted bad attitude. Doing-Being Assimilation, by other means. And that's cool, right? Jay/ kay~<3lulz<3~Fuck You, Fuck That Shit. If you're making your peace, we were enemies from the start--Get fucked. For whoever is still insatiable: your glee, hatred and friends are waiting; so get your shit together and begin again. Crazy insurrecta-bitches had it right-- but once or twice "affinity groups" are cheap shit--let's get it constant. Some of us were stepping to that shit before the first convergence, and some of us have been rolling hard since, licking our lips at that "War" in Social War. Here are a few of our notes.
 
@@ -114,7 +114,7 @@ A final clarification: When we say "anarchist" we mean living in conflict with c
 
 If you're still doing that anarcho-activist manager thing, whether in its liberal or the recent reactionary insurrectionist version: go die.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Further reading:
 
@@ -134,6 +134,6 @@ Further reading:
 
 **Read less, fight more**
 
-------------------------------------------------------------------------
+------------------------------------
 
 https://ia803104.us.archive.org/24/items/ZineArchive/ShootfirstBooklet.pdf

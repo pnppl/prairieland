@@ -14,7 +14,7 @@ For every fascist who plans to attack drag queen story hour, there are three ant
 
 Inspired by a poem by Nancy R. Smith. CrimethInc. Gender Subversion Kit #69-C.
 
-------------------------------------------------------------------------
+------------------------------------
 
 
 # Not Just Rights: Gender Self-Determination
@@ -25,13 +25,13 @@ This is the local manifestation of a global surge of reactionary violence and st
 
 If we want to win, though, we need a transformative framework to describe what we're fighting for.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Many advocates use language about preserving or extending rights when they set out to explain why they oppose oppression. We propose a different framework: **gender self-determination.**
 
 What are the advantages of this approach?
 
-------------------------------------------------------------------------
+------------------------------------
 
 First, it's **expansive.** Self-determination extends beyond defending ourselves against attacks or securing guarantees from the government. It means defining what well-being means for us and creating the conditions for it on our own terms.
 
@@ -45,7 +45,7 @@ Third, it's **inclusive.** Whether you identify as trans, non-binary, queer, or 
 
 Finally, this approach is **resonant.** This framework articulates our aspirations in the same terms that many other oppressed communities and radical movements use. Understanding ourselves as part of a story much bigger than ourselves will help us to interweave our efforts with those of others. It can also help us to draw inspiration and knowledge from other movements across the globe and throughout history.
 
-------------------------------------------------------------------------
+------------------------------------
 
 By shifting the discussion from the *limits* of rights to the *horizon* of self-determination, we begin to bring into being a radically different world, in which no authorities---neither governments, religions, nuclear families, nor anything else---can confine us within their narrow visions of who we should be and who we can become.
 
@@ -53,7 +53,7 @@ No judge or politician should be able to dictate how we live our lives. As long 
 
 "Choice" and "rights" are not enough. It's freedom that is at stake here, and it is clear that we can't look to those who were supposed to protect our choices and rights for that.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Concretely, this means setting up networks to help each other obtain the medical care we need, including hormones and abortion access, regardless of the obstacles. It means organizing self-defense groups. It means supporting young people who are organizing autonomously, especially trans and queer kids. It means acting in solidarity with trans and queer people in jails, prisons, and detention centers. It means creating sanctuary spaces for trans and queer people in need, and establishing legal support structures for those who are targeted by the judicial system. It means building communities in which we can can sustain ourselves, look out for each other, and take the offensive against those who intend to harm us.
 

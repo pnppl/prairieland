@@ -122,7 +122,7 @@ Those who were there merely to have fun, to flutter and navel gaze, have *profit
 
 [^10]: The expression *Image d'Epinal* has become proverbial in French and refers to an emphatically traditionalist and naïve depiction of something, showing only its good aspects. Tn.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Retrieved on 2/19/2016 from http://www.non-fides.fr/?Butterflies-polyamory-and-ideology
 

@@ -437,6 +437,6 @@ We will be told: you are caught in an alternative which will condemn you in one 
 
 There remains only to gamble on the existence of another outcome, a thin ridge, just wide enough for us to walk on, just enough for *all those who can hear* to walk on it and live.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Translated for US-English by Lawrence Jarach (in communication with the authors). Often considered the first Invisible Committee text, "Call" [*Appel*] was published anonymously in France in 2004.

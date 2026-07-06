@@ -134,7 +134,7 @@ There is not now, and perhaps has never been, a BIPOC experience or a BIPOC comm
 
 Everywhere people are building fires--fires for burning down the infrastructures of this world and the identities ascribed to them, fires for gathering around in new forms of communal life with shared sustenance, story, and song. To follow the horizon of insurgent anti-colonialism, follow the fires.
 
-------------------------------------------------------------------------
+------------------------------------
 
 
 ## Readings, Inspirations, Influences

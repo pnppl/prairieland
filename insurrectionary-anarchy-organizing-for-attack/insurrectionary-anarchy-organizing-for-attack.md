@@ -209,6 +209,6 @@ Or will it be too late...?
 
 [^7]: When arrested Nikos refused to recognise the authority of the whole legal system. He made a radical anarchist statement to the court during his trial, giving the reasons for the bombing, and explaining his insurrectionary hatred for the state and industry. He's now released.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Retrieved on 2020-05-02 from https://archive.org/details/Insurrectionary/

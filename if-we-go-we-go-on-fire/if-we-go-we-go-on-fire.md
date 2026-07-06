@@ -122,7 +122,7 @@ Wherever you are, whoever you are, know that if you move with intention and desi
 
 Know this.
 
-------------------------------------------------------------------------
+------------------------------------
 
 [Long Leaf Distro]
 

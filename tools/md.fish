@@ -1,7 +1,7 @@
 for file in ../*/index.html ../crimethinc-gender/*.html
 	set loc (path dirname "$file")
 	set zine (folder "$file")
-	if test "$zine" = "gallery" -o "$zine" = "map"
+	if test "$zine" = "gallery" -o "$zine" = "map" -o "$zine" = "destroying-white-nationalism"
 		continue
 	end
 	if test "$file" = "../crimethinc-gender/classic.html"
@@ -36,6 +36,8 @@ for file in ../*/index.html ../crimethinc-gender/*.html
 		sed -E 's,^[#],\n#,g' |
 		# remove extraneous blank lines |
 		sd '^[\n]{3,}' '\n\n' |
+		# why the fuck is the hr so big? we are not hard wrapping at 72. cut it in half
+		sd -- '------------------------------------------------------------------------' '------------------------------------' |
 		# ALL OF MY HATE
 		sed -E "s,[\][`],',g" > "$loc/$zine.md"
 end

@@ -120,11 +120,11 @@ In reality, proto-communist, as opposed to simply communal, life-forms have been
 
 I could not agree more, by the way, that the satanic death-cult in *Hereditary* is "real." It's absolutely real, it's everywhere. And what Ari Aster is half-consciously demonstrating--indeed, what I am now saying to you in deadly seriousness, fully cognizant that it's also hilarious--is that, if we persist in reproducing the nuclear family, we are leaving ourselves, as a species, wide open to successful targeting by satanic death-cults. It is because the way that Annie/Dani feel and behave under the influence of a death-cult *could* plausibly be the way they feel and behave under the influence of a nuclear family, that we have to abolish the family.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Sophie Lewis is a writer and queer communist theorist living in Philadelphia. Her first book, *Full Surrogacy Now: Feminism Against Family*, was published by Verso in May 2019.
 
-------------------------------------------------------------------------
+------------------------------------
 
 <www.haters.noblogs.org/files/2023/08/Satanic-Death-Cult.pdf> & <www.communemag.com/the-satanic-death-cult-is-real>
 

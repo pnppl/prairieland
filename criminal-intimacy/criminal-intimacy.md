@@ -63,7 +63,7 @@ Right-wing talking-heads invoke the imagery of a 'culture war', waged between ci
 
 Our dirty talk and our nighttime whispers comprise a secret language. Our language of thieves and lovers is foreign to this social order, yet carries the sweetest notes in the ears of rebels. This language reveals our potential for world making. Our conflict is space for our possible other-selves to blossom. By organizing our secret universe of shared plenty and collective-explosive possibility, we are building a new world of riot, orgy, and decadence.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Retrieved on MAR-7-2021 from https://ia803104.us.archive.org/24/items/ZineArchive/WritingsOfTheMaryNardiniGang1.pdf
 

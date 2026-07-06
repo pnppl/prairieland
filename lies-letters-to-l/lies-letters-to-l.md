@@ -65,13 +65,13 @@ To be a feminist is to be a paranoid. Everyone tells us that we are reading into
 
 Our reactions are never proportionate to the actions that preceded them.
 
-------------------------------------------------------------------------
+------------------------------------
 
 On the one hand, the abstract. *Men rape women. Sometimes the configuration is different, sometimes gender violence takes other forms. But the pattern remains: men rape women, over and over and over and over and over.*
 
 On the other hand, the concrete. *He raped me*. *He was really drunk, and I was really drunk. He left a mark, on my thigh. I know he's messed up, I know something really bad happened to him when he was a kid. He told me he's in therapy.*
 
-------------------------------------------------------------------------
+------------------------------------
 
 Our anger is experienced by others as uninteresting, as formulaic. Sometimes we too become bored with our performance of indignation. *I object*, we say, again and again, and our mouths ache.
 
@@ -79,17 +79,17 @@ Woman: she who is asked to resolve an irresolveable contradiction, or upon whom 
 
 *Is this the world you want*, others ask, *a world of judgment, ethical norms, and punishment? Can't you see this solves nothing?*
 
-------------------------------------------------------------------------
+------------------------------------
 
 The intensity of emotion that we express - which seems so excessive as to be named hysterical or insincere - is a result of this contradiction.
 
-------------------------------------------------------------------------
+------------------------------------
 
 We know the radiation's source, we know where the leak occurred. We can measure the levels at the site. But the further we get from the site, the more diffuse and dispersed the radiation becomes. We do not know how the force penetrates specific life-forms, how it alters their composition over time, how it contributes to a slow death years later. We know that there is a relationship between the radiation and the particular fates of those exposed - we can detect abnormal rates of illness - but we cannot trace it directly. Death and illness dispersed over time and space appear as purely individual destinies.
 
 This is the way that gender relations appear. Radiating, condensing, making ill.
 
-------------------------------------------------------------------------
+------------------------------------
 
 No, that is not the world we want.
 
@@ -97,37 +97,37 @@ But is not possible for us to avoid certain emotional registers, certain mundane
 
 It is not that we addressed the problem incorrectly but that there is no correct way to address the problem. *It is the social relation that produces us as women with problems, and as men who create problems, that is the problem.*
 
-------------------------------------------------------------------------
+------------------------------------
 
 To live as a woman is to live out the consequences of a contradiction between the private and the social, the concrete and the abstract, the specificity of an individual life and the general pattern that constitutes a group's life.
 
 To embrace the gestures of the feminist is to live as a paranoid, insofar as the social consequences of perceiving as real that which the whole of society denies are the same whether or not those perceptions are true. The contradiction becomes a personal secret, something we must pretend not to perceive when in the presence of others. To others there is no contradiction. Individual reactions are proportionate to the actions that preceded them.
 
-------------------------------------------------------------------------
+------------------------------------
 
 There is no thing, no object called The Radiation, that we can attack. There are only the life-forms that have been exposed to it, whose cells have been altered invisibly, whose bodies have been indelibly marked in ways that unfold mysteriously over time, each distorted in its own way.
 
 There is no thing called Men that we can attack. There are only individual men, there are only individual instances of violence, there are only specific experiences that we accumulate all of our lives, each unique but in some ways alike, like dust on a sill, slowly sedimenting.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Beatings, accountability processes, banishment, forgiveness: these are different ways that milieus attempt to deal with gender violence. The beatings do not work, the accountability processes do not work, banishment does not work, forgiveness does not work.
 
 The fact that sometimes a woman chooses a violent response suggests that of all the impossible choices given to her, she has opted for the one that expresses the actual degree of hostility at the level of the social group - that is, the hostility of women as a group against the domination of men as a group.
 
-------------------------------------------------------------------------
+------------------------------------
 
 The problem for women is not just uncovering what is political in the personal and personal in the political; it is finding a way to live inside of a contradiction wherein we experience simultaneously the concrete and the abstract nature of gender relations. This way of living is always unsatisfactory, and it is that fact - the fact of our own dissatisfaction, of the impossibility of fitting our lives within the paradigms we are given for them - that forms the material for our resistance.
 
 At some point we begin looking for others suffering from our condition. Others with whom our private hallucinations can be recast as social, and with whom the impossibility of our position forms the foundation for a kind of sharing between the insane.
 
-------------------------------------------------------------------------
+------------------------------------
 
 It is hard to trust each other.
 
 In our terrible communities, when we side with each other we lose access to certain people, to certain men, and to the people to whom those men have access. The more ties we cut the less important we become and the more ties we lose. The lines that run between us, connecting all the men and the not-men together, form a web of allegiances and antagonisms, and we begin to learn that to put each other first has consequences. Brutally, we learn that in extricating ourselves from certain bonds we will make ourselves undesirable to men, and that this will make us utterly and finally invisible.
 
-------------------------------------------------------------------------
+------------------------------------
 
 We will lose many of our friendships with women.
 

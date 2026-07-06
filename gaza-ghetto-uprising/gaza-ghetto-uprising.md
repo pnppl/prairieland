@@ -230,7 +230,7 @@ He goes on to criticize Israeli journalist Amira Hass's editorials as insidious 
 
   [Silver Lining on WCBN 88.3 FM Ann Arbor]: https://open.spotify.com/episode/2AsbPKw5tOra9WUZTM4dnD?si=8c25a398ac9a46de
 
-------------------------------------------------------------------------
+------------------------------------
 
 [**Adi Callai**] is the host of the Youtube channel [Rev & Reve]. Their novel *The Sodomites* was first published from Xi Draconis in 2020. @[adicallai]
 
@@ -318,7 +318,7 @@ He goes on to criticize Israeli journalist Amira Hass's editorials as insidious 
 
 [^38]: James Yaki Sayles, *Meditations on Frantz Fanon's Wretched of the Earth: New Afrikan Revolutionary Writings* (Chicago, Ill.: Spear and Shield, 2010), 181.
 
-------------------------------------------------------------------------
+------------------------------------
 
 <brooklynrail.org/2024/05/field-notes/The-Gaza-Ghetto-Uprising>
 

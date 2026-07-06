@@ -140,6 +140,6 @@ In the time between the Stonewall Riots and the outbreak of HIV, the queer commu
 
 [^3]: See the New Jersey 4. And let's free everyone else while we're at it.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Retrieved on 2017-09-16 from http://www.weldd.org/sites/default/files/Toward%20the%20Queerest%20Insurrection.pdf

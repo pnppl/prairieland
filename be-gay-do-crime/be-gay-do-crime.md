@@ -56,7 +56,7 @@ I
 
 For all our friends on the other side, we present these reflections.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Ten years ago, we were seized by a frenzied spirit and, in a trancelike state, received a set of ten weapons for a war we were only just finding the words to describe. We were a cabal of teenage runaways, ne'er-do-wells, what Genet called criminal children, coming *ex nihilo*, from and with nothing but each other. We experienced the whole social order as inimical to freedom, desire, and our preferred relations, but suspected we were not alone in our visceral hatred for this world. So we encoded these tools -- visions of excess and otherness -- into a slim zine and sent it to the ends of the earth. For a decade we've followed it, across borders linguistic and militarized, to find the comrades (in a sense inalienable from, as Chris Chitty argued, the word's originary homoerotic implications) who received this same transmission: queer insurrection.
 
@@ -198,7 +198,7 @@ The skeleton has been here, frenzied, before. The meme described above *detourne
 
 [^1]: *The Coming Insurrection,* the Invisible Committee.
 
-------------------------------------------------------------------------
+------------------------------------
 
 Be Gay Do Crime
 

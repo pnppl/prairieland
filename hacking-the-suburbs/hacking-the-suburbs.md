@@ -1,3 +1,7 @@
+[text (md)]
+
+  [text (md)]: hacking-the-suburbs.md
+
 
 # Hacking the Suburbs
 
@@ -74,6 +78,6 @@ We also know, when we're talking about extended families, that there's a lot of 
 
   [RetroSuburbia]: http://retrosuburbia.com/
 
-------------------------------------------------------------------------
+------------------------------------
 
 All images courtesy *Retrosuburbia.com.*

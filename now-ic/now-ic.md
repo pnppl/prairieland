@@ -320,7 +320,7 @@ A strategic verticality of this kind can only emerge from a constant, generous d
 
 > "Communism is the material process that aims to render sensible and intelligible the materiality of the things that are said to be spiritual. To the point that we're able to read in the book of our own body all that humans did and were, under the sovereignty of time--and to decipher the traces of humanity's passage upon an Earth that will preserve no trace." (Franco Fortini)
 
-------------------------------------------------------------------------
+------------------------------------
 
 Retrived on February 18, 2018 from https://illwilleditions.noblogs.org/files/2018/02/Invisible-Committee-NOW-READ.pdf
 

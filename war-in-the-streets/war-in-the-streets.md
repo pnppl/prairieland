@@ -376,13 +376,13 @@ As the environment of struggle shifts, so should our strategy. The contemporary 
 
 At the moment when struggles were cohering as a convergence of the antagonistic remnants of culture --- the cycle of struggles that included environmentalism, third-wave feminism, anti-death penalty, anti-war, and anti-globalization --- *all black everything* attacking the symbols of financial capital was clearly contemporary. The black represented a conscious sense of the way these ethical practices were excluded from capital, and financial capital was the example of shameless entrepreneurship *par excellence*. However, today our anti-social media darlings no longer conjure a meaning exterior to capital --- mostly because these forms (culture) could be, and were, integrated into the general circulation of commodities. The black bloc and corresponding meaning that was linked to a set of subcultural identities is empty. There may remain a caricature in some newspaper making reference to one of our more loud participants --- the anarchist punk --- but as we all know, there is no longer a world for such a creature. Some may feel a sense of depressing nostalgia for how capitalism has drained our subcultures of what was living, but the emptiness of the black bloc --- its abyss of potential chaos --- is precisely what makes it more relevant than ever. The black bloc drained of identity has the potential to become open in ways impossible when it was only the practice of a limited set of subcultures. Strategic antagonism in a world increasingly composed solely of hostility now has the potential to shed its veneer and experiment.
 
-------------------------------------------------------------------------
+------------------------------------
 
 What follows is a set of experiments to be immediately put into practice. The results should be examined, and analyses should be shared through our internal circuits of communication.
 
 This text, although in public forums, is an example of how our communication works. We can say there is something, but there is no need to speak of its content. Thus, a cypher is put into public spheres. The cypher codes that a black bloc is called. The call speaks to those who hear it. It happens. If it happens well, if would appear that there was never a black bloc at all, only the event. However, *the real* of the event is not pure spontaneity, but the ease with which antagonistic techniques are able to spread and mutate.
 
-------------------------------------------------------------------------
+------------------------------------
 
 
 #### **Experiment 1.** *Street clothes is the new black. Plain colors on the first layer, prints, stripes or plaids for the second layer. Jeans for bottoms.*

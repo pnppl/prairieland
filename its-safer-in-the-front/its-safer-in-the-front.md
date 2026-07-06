@@ -24,7 +24,7 @@ Faced with intensifying repression and state violence, there is an understandabl
 
   [Rolling Thunder #1]: https://crimethinc.com/journals/rolling-thunder/1
 
-------------------------------------------------------------------------
+------------------------------------
 
 ![image]
 
@@ -52,7 +52,7 @@ It doesn't always work out this way, but sometimes, it's safer in the front.
 
   [2]: img/9.jpg
 
-------------------------------------------------------------------------
+------------------------------------
 
 It was noon on April 20, 2001. My comrades and I had assembled alongside hundreds of other anarchists and anti-capitalists at Laval University in Québec City to march on a [transcontinental summit] intended to establish a "Free Trade Area of the Americas." In the center of town, behind miles of protective fencing and thousands of riot police, George W. Bush and his fellow heads of state were plotting to override labor laws and environmental protections to enrich their patrons at our expense.
 
@@ -78,7 +78,7 @@ Anarchists marching on the so-called "Summit of the Americas" in Québec City, A
 
   [3]: img/1.jpg
 
-------------------------------------------------------------------------
+------------------------------------
 
 My friend's advice served me well four years later, on the day that George W. Bush began his second term. That night, following the daytime march against the [inaugural ceremonies], a second march surged through the neighborhood of Adams Morgan, smashing banks and corporate businesses and attacking a police substation. Some participants dropped an enormous banner across a building façade reading "From DC to Iraq--with occupation comes resistance." We were attempting to compel the Bush regime to end the occupation of Iraq, which inflicted countless civilian casualties and later contributed to the [catastrophic rise] of the Islamic State.
 
@@ -101,7 +101,7 @@ Washington, DC, January 20, 2005.
 
   [4]: img/2.jpg
 
-------------------------------------------------------------------------
+------------------------------------
 
 On August 25, 2008, in Denver, during the [demonstrations] against the Democratic National Convention, a couple hundred people gathered for a march that had been announced but never organized. We were still protesting against the ongoing occupation of Iraq and against capitalism in general.
 
@@ -129,7 +129,7 @@ Denver, August 25, 2008.
 
   [5]: img/3.jpg
 
-------------------------------------------------------------------------
+------------------------------------
 
 On the morning of January 20, 2017, another comrade and I joined the [march] in downtown Washington, DC opposing the inauguration of Donald Trump. In the decades that had passed since Bush's second inauguration, police all around the country had militarized, receiving bigger and bigger budgets even as politicians claimed there was no money available for anything else. This time, the streets were crowded with 28,000 law enforcement personnel.
 
@@ -170,7 +170,7 @@ Washington, DC, January 20, 2017.
 
   [6]: img/6.jpg
 
-------------------------------------------------------------------------
+------------------------------------
 
 Several years later, I was in Atlanta for the [Block Cop City] mobilization. Protesters had been trying to stop the construction of a multi-million-dollar facility to further militarize the police. In retaliation, the police had [murdered] one person and arrested a large number of people at random, charging them with [terrorism] and indicting sixty-one of them on trumped-up [racketeering] charges.
 
@@ -217,7 +217,7 @@ In all our anxiety, we had forgotten the greatest risk of all: that we might do 
 
 Sometimes you can only find out what the risks are by taking a chance. This time, we had gotten lucky. But in a way, we had also passed a test.
 
-------------------------------------------------------------------------
+------------------------------------
 
 ![][8]
 
