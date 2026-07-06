@@ -80,6 +80,7 @@
 				- https://botanicalgarden.ubc.ca/news-events/two-new-propagation-zines-by-dr-erin-despard/
 				- need html and screen. also print version looks weird
 			- a guide to IFAK - socialist rifle association
+				- done
 				- another tri fold pamphlet
 				- https://static.wikitide.net/masrawiki/2/25/SRA_IFAK_Pamphlet.pdf
 		- both versions of the crimethinc gender poster
