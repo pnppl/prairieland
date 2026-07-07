@@ -58,14 +58,19 @@
 			- desert
 			- hand palm out is also desert - https://nitter.poast.org/EmmaGoldmanBCTX/status/1909069222505853322
 			- corner of with white beams is anarchy works ^
-			- unidentified
-				- all black with eclipse crescent. baedan
-				- all black with small curlicue. (also baedan?)
-				- some sort of dinosaur cartoons or something
+			- creatures - The Fight for Turtle Island by Aragorn!
+				- https://theanarchistlibrary.org/library/aragorn-the-fight-for-turtle-island
+				- https://opendistro.net/pdf-library/fight-turtle-island
+			- curlicue - baedan 1
+				- https://theanarchistlibrary.org/library/baedan-baedan/
+				- https://baedan.noblogs.org/post/2012/09/02/baedan-one/
+			- crescent - baedan 2
+				- https://baedan.noblogs.org/post/2014/06/20/baedan-issue-two/
 			- ^ all bound books i think
 		- printing press
 			- dead sister poetry
-			- baedan? editorial statement clearly visible, can make out "journal of queer time travel", maybe this is the sequel
+			- baedan 3
+				- https://baedan.noblogs.org/post/2015/09/11/baedan-3-journal-of-queer-time-travel/
 		- flag - possibly one bottom right behind the light, shows a seed growing. also who made that flag?
 			- 90% sure it is not plant propagation for the people
 		- 8 things you can do to stop ice pamphlet
@@ -184,13 +189,22 @@
 						- solution: reprint (literally open in atril and hit print) middle pages at custom 5.5x8 page size, then concat with pdftk
 					- just realized Now is the same way. that one has art that extends so it makes more sense? maybe i should have left this alone
 				- https://theanarchistlibrary.org/library/anonymous-call
+			- bonanno - the anarchist tension
+				- https://www.anti-politics.org/distro/2006.html
+				- https://theanarchistlibrary.org/library/alfredo-m-bonanno-the-anarchist-tension
+					- retrieved from http://www.geocities.com/kk_abacus/ioaa/tension.html which seems to have been controlled by quiver distro (anti-politics)
+					- text matches the pdf
+				- https://www.elephanteditions.net/library/alfredo-bonanno-the-anarchist-tension
+					- slightly different text
+			- mansfield's school [de?]segregation history ..65-1965, texas anarchist logo
+				- correspondent suggests these as sources
+					- https://omeka.library.unt.edu/s/the-crisis-at-mansfield/page/mansfield-crisis-1956
+					- https://blackpast.org/african-american-history/mansfield-texas-school-desegregation-incident-1955-1965/
+					- https://blackartstory.org/2023/01/20/revisit-mansfield-texas-school-desegregation-incident-1955-1965/
 			- SRA constitutional carry "what it means for you"
 				- seems to be from DFW SRA based on the logo and knowledge of the case. maybe on their instagram somewhere https://www.instagram.com/sra_dfw/
-			- mansfield's school [de?]segregation history ..65-1965, texas anarchist logo
-				- i got nothing. is there another place that ends in -nsfield?
 			- read my lips fight ??? (maybe a poster?)
 			- biden's (president, free..., failure)? state sponsor ... causing hardship?
-			- the anar[chist?] te[mple?]??? old timey religious/occult type art
 			- why we must??? need?
 			- FTP - fight... feel... freedom... fucking? seems familiar. crimethinc?
 
