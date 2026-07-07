@@ -82,6 +82,7 @@
 				- seems annoying and kind of pointless
 		- seeds
 			- propagation for the people vol 1 & 2
+				- done, but it's just images because i can't get the text from the pdf and don't feel like retyping it
 				- https://botanicalgarden.ubc.ca/news-events/two-new-propagation-zines-by-dr-erin-despard/
 				- need html and screen. also print version looks weird
 			- a guide to IFAK - socialist rifle association
@@ -190,6 +191,7 @@
 					- just realized Now is the same way. that one has art that extends so it makes more sense? maybe i should have left this alone
 				- https://theanarchistlibrary.org/library/anonymous-call
 			- bonanno - the anarchist tension
+				- done
 				- https://www.anti-politics.org/distro/2006.html
 				- https://theanarchistlibrary.org/library/alfredo-m-bonanno-the-anarchist-tension
 					- retrieved from http://www.geocities.com/kk_abacus/ioaa/tension.html which seems to have been controlled by quiver distro (anti-politics)
