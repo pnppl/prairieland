@@ -1,7 +1,7 @@
 for file in ../*/index.html ../crimethinc-gender/*.html
 	set loc (path dirname "$file")
 	set zine (folder "$file")
-	if test "$zine" = "gallery" -o "$zine" = "map" -o "$zine" = "destroying-white-nationalism"
+	if test "$zine" = "gallery" -o "$zine" = "map" -o "$zine" = "destroying-white-nationalism" -o "$zine" = "plant-propagation-for-the-people"
 		continue
 	end
 	if test "$file" = "../crimethinc-gender/classic.html"
