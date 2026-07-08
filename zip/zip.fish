@@ -8,7 +8,7 @@ end
 for zine in (find .. -name '*.pdf' | grep -v 'new/' | grep 'print')
 	zip -9 -j prairieland-zines_print-pdf.zip "$zine"
 end
-for zine in (find .. -name '*.md' | grep -vE 'README|notes')
+for zine in (find .. -name '*.md' | grep -vE 'README|notes|new/')
 	zip -9 -j prairieland-zines_text-md.zip "$zine"
 end
 
