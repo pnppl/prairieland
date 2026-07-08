@@ -1,4 +1,3 @@
-- add markdown versions
 - add section collecting links to donate
 - add section about the state's transmisogyny (they are so fascist in tx the gov deadnames people who legally changed their name, jfc)
 - add zines
@@ -84,7 +83,6 @@
 			- propagation for the people vol 1 & 2
 				- done, but it's just images because i can't get the text from the pdf and don't feel like retyping it
 				- https://botanicalgarden.ubc.ca/news-events/two-new-propagation-zines-by-dr-erin-despard/
-				- need html and screen. also print version looks weird
 			- a guide to IFAK - socialist rifle association
 				- done
 				- another tri fold pamphlet
