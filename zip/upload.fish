@@ -1,10 +1,1 @@
-git stash &&
-for zip in *.zip
-	mv "$zip" ..
-end
-git add .. &&
-git commit -m 'deploy zips' &&
-git push &&
-git reset HEAD~1 &&
-git restore . ||
-echo "fuck"
+lftp -e "set ftp:skey-force; put prairieland-zines_screen-pdf.zip; put prairieland-zines_print-pdf.zip; put prairieland-zines_text-md.zip; put prairieland-zines_html.zip" -u handthing,$HANDTHING_FTP w10.host
