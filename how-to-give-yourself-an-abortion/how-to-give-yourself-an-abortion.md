@@ -225,7 +225,7 @@ You can also chat with a trained counselor and advocate by emailing <info@safe2c
 
   [Arielle Swernoff]: https://jewishcurrents.org/author/arielleswernoff
 
-**[Mattie Lubchansky]** is a cartoonist and illustrator living in Queens, NY. You can find their work on The Nib, where they are associate editor, or at [matt-lub.com].
+**[Mattie Lubchansky]** is a cartoonist and illustrator living in Queens, NY. You can find her work at [mattielubchansky.com/].
 
   [Mattie Lubchansky]: https://jewishcurrents.org/author/mattie-lubchansky
-  [matt-lub.com]: http://matt-lub.com
+  [mattielubchansky.com/]: https://mattielubchansky.com/
