@@ -40,7 +40,6 @@
 			- to them we're all outside agitators: encampments & escalation
 				- done
 				- https://wolpalestine.com/encampments/
-				- can't find pdf
 			- the do-it-yourself occupation guide: 2024 edition
 				- done
 				- seems canonical https://archive.org/details/diy-occupation-guide-2024/
@@ -196,16 +195,17 @@
 					- text matches the pdf
 				- https://www.elephanteditions.net/library/alfredo-bonanno-the-anarchist-tension
 					- slightly different text
-			- mansfield's school [de?]segregation history ..65-1965, texas anarchist logo
+			- mansfield's school [de?]segregation history ..55-1965, texas anarchist logo
 				- correspondent suggests these as sources
 					- https://omeka.library.unt.edu/s/the-crisis-at-mansfield/page/mansfield-crisis-1956
 					- https://blackpast.org/african-american-history/mansfield-texas-school-desegregation-incident-1955-1965/
 					- https://blackartstory.org/2023/01/20/revisit-mansfield-texas-school-desegregation-incident-1955-1965/
-			- SRA constitutional carry "what it means for you"
-				- seems to be from DFW SRA based on the logo and knowledge of the case. maybe on their instagram somewhere https://www.instagram.com/sra_dfw/
 			- i think the sliver behind "strategic madness" is "How to Give Yourself an Abortion"???
 				- yes! lined it up in gimp and it matches with 'madness' just barely covering up the author's name
 					- they used a watermarked stock image lmao love that
+				- haters, https://jewishcurrents.org/how-to-give-yourself-an-abortion/
+			- SRA constitutional carry "what it means for you"
+				- seems to be from DFW SRA based on the logo and knowledge of the case. maybe on their instagram somewhere https://www.instagram.com/sra_dfw/
 			- read my lips fight ??? (maybe a poster?)
 			- biden's (president, free..., failure)? state sponsor ... causing hardship?
 			- why we must??? need?
