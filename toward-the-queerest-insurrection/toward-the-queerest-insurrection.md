@@ -1,8 +1,8 @@
 [text (md)] · PDF: [screen] · [print]
 
   [text (md)]: toward-the-queerest-insurrection.md
-  [screen]: towards-the-queerest-insurrection.pdf
-  [print]: towards-the-queerest-insurrection_print-letter.pdf
+  [screen]: toward-the-queerest-insurrection.pdf
+  [print]: toward-the-queerest-insurrection_print-letter.pdf
 
 
 ## Mary Nardini Gang
