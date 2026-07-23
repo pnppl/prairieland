@@ -225,6 +225,18 @@
 			- https://annas-archive.gl/search?index=&page=1&sort=&display=&q=emergent+strategy+shaping+change+adrienne+maree+brown
 			- might not want to put up books due to copyright harassment?
 				- AK press's position in 2009 described in this https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1434707
+	- filing-complaint https://prairielanddefendants.com/wp-content/uploads/2026/01/gov.uscourts.txnd_.411041.1.0.pdf
+		- also in npr-kera
+		- earth first journal seemingly but can't find the issue
+			- in here somewhere? https://www.environmentandsociety.org/mml/collection/11571
+			- don't see it here https://archive.org/details/@earth_first_journal_collective/lists/1/earth-first!-journal-archive
+			- they have some more recent stuff on IGD and anews than shows up in the archives, seems like they lost some infra and fragmented
+				- or they are just bad at computers given... *gestures*. seems like they made the rookie mistake of not giving it away for free digitally
+		- already have: love of winning, organizing for attack, critique of insurrecto, queerest insurrection ("filth is our politics!" visible)
+		- sticker: BSC / DIY / FXG: black coffee / black metal / black hearts / black spoke collective
+			- https://www.blackspokecollective.org/product/black-coffee-xl-sticker
+			- i think this is the first i've found a canonical sticker source, could add these later, would want to prioritize the "crime scene" stuff tho
+	- evidence was recently unsealed, wonder how i can get it? https://prairielanddefendants.com/press-release/recently-unsealed-trial-evidence-contradicts-governments-account-of-events-during-fourth-of-july-prairieland-noise-protest/
 
 	- egbc fb: https://www.facebook.com/EmmaGoldmanBCTX/
 		- between the sea and the security fence - ian alan paul
